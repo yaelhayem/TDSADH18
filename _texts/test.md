@@ -1,10 +1,6 @@
----
-layout: default
+layout: null
 title: "Jabberwocky"
-author: Lewis Carroll
-editor: Stan Golanka
-source: www.jabberwocky.com
----
+
 
 [^fn1]
 - 'Twas brillig, and the slithy toves 
