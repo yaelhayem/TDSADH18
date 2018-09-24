@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 title: "Jabberwocky"
 author: Lewis Carroll
 editor: Stan Golanka
