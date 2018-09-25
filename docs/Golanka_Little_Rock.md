@@ -1,5 +1,7 @@
 Troops on Guard at School; 
+==========================
 Negroes Ready to Return
+=======================
 
 By Benjamin Fine
 Special to The New York Times.
