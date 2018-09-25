@@ -4,6 +4,8 @@ Negroes Ready to Return
 =======================
 
 By Benjamin Fine
+----------------
+
 Special to The New York Times.
 
 LITTLE ROCK, Ark., Sept. 24---Troops from the Army's crack 101st Airborne Division, carrying carbines and billy clubes, took posts around Central High School tonight. They were here to see that court-ordered integration is carried out.
