@@ -1,3 +1,10 @@
+This is a transcription of an article from the New York Times, published September 25, 1957.  
+
+The original article (in PDF form) [can be found here](/files/times_litte_rock_92557.pdf).
+
+
+
+
 Troops on Guard at School; 
 ==========================
 Negroes Ready to Return
