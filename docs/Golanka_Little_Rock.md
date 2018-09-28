@@ -20,4 +20,4 @@ LITTLE ROCK, Ark., Sept. 24---Troops from the Army's crack 101st Airborne Divisi
 &nbsp;&nbsp;&nbsp;&nbsp; With police sirens wailing and headlights flashing, Army trucks loaded with soldiers roared into position. The soldiers represented about a quarter of the contigent of 1,000 crack troops of the division that was ordered to Little Rock by President Eisenhower to prevent mob riots and violence.
 
 The photo that accompanied this article:
-![Soldiers in Little Rock](/images/little_rock_photo.JPG)
+![Soldiers in Little Rock](/images/little_rock_photo)
