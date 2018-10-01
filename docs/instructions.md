@@ -1,5 +1,4 @@
-For the Markdown/HTML Practicum, the class will use GitHub to collaborate in creating a web site composed primarily of transcribed historical archives.
----
+**For the Markdown/HTML Practicum, the class will use GitHub to collaborate in creating a web site composed primarily of transcribed historical archives.**
 
 Choices to be made/Questions to Answer:
 
@@ -33,8 +32,10 @@ Lab Preparation Steps
 
    Use your school username and email address.
    
-2. Find the #### TDSADH18 repository #### owned by sgolanka [or use this direct link](https://github.com/sgolanka/TDSADH18)
+2. Find the **TDSADH18 repository** owned by sgolanka [or use this direct link](https://github.com/sgolanka/TDSADH18)
 
    A [repository](https://help.github.com/articles/github-glossary/#repository) is a collection of files and folders saved on GitHub. It contains all of the resources used in a project.
    
-3. 
+3. **Fork** the repository by clicking the Fork icon in the upper right, and then click on your account name in the resulting pop-up window.
+
+   To [fork](https://help.github.com/articles/github-glossary/#fork) a repository is to make a copy of it in you own account. The copy "remembers" where it came from, so you can merge your fork back to the original repository. This is one of the fundamental ways GitHub can be used for collaboration (it also keeps track of each change).
