@@ -33,7 +33,7 @@ Lab Preparation Steps
 
    Use your school username and email address.
    
-2. Find the TDSADH18 ##### repository owned by sgolanka [or use this direct link](https://github.com/sgolanka/TDSADH18)
+2. Find the #### TDSADH18 repository #### owned by sgolanka [or use this direct link](https://github.com/sgolanka/TDSADH18)
 
    A [repository](https://help.github.com/articles/github-glossary/#repository) is a collection of files and folders saved on GitHub. It contains all of the resources used in a project.
    
