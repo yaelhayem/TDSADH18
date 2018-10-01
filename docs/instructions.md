@@ -23,3 +23,18 @@ Reference
 
 [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/#characters-and-lines)
 
+
+   ---
+   
+Lab Preparation Steps
+---
+
+1. Create an account on [GitHub.com](https://github.com/)
+
+   Use your school username and email address.
+   
+2. Find the TDSADH18 ##### repository owned by sgolanka [or use this direct link](https://github.com/sgolanka/TDSADH18)
+
+   A [repository](https://help.github.com/articles/github-glossary/#repository) is a collection of files and folders saved on GitHub. It contains all of the resources used in a project.
+   
+3. 
