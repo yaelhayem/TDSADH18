@@ -21,7 +21,7 @@ Reference
 
 [HTML Tutorial](https://www.w3schools.com/html/html_intro.asp)
 
-[CSS discussion (scroll down to External CSS](https://www.w3schools.com/html/html_css.asp)
+[CSS discussion (scroll down to External CSS)](https://www.w3schools.com/html/html_css.asp)
 
 
    ---
@@ -69,6 +69,8 @@ Practicum Requirements and Techniques
    
    Make a numbered list by using a number--and leaving a blank line after each numbered item.
    
+   Your repository has a "theme" selected, which affects the way your Markdown document appears.  You can experiment with different themes by going to the settings tab in your repository--scroll down until you see the theme section.
+   
 4. When you are satisfied that you have finished your edits, create a [Pull Request](https://help.github.com/articles/github-glossary/#pull-request).  this will notify the owner of the original repository that you are ready for your changes and additions to be merged into the master project.  Click **Pull Request** at the top of your repository, then **New Pull Request** then **Create Pull Request**.
 
 **Creating a new [HTML](https://help.github.com/articles/github-glossary/#markdown) Page**
@@ -80,7 +82,7 @@ Practicum Requirements and Techniques
 3. You also need ot add a **css** file.  CSS stands for [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and it is how you can set the look of your HTML page. CSS can be used to set the font (or fonts)--type and size--used in your HTML page, to set the background color, to determine how headlines look, to make links look a certain way--virtually everything on your web page.
    Navigate to the **css** folder, click on it, create a new file, and add **.css** at the end of the file to indicate this file is a Cascading Style Sheet.
 
-4. Use the index.html page as a guide for your html page.  Note that HTML uses "tags" that are enclosed in brackets like this: < >. Tags typically come in pairs--an **open** tag and a **close** tag.  For instance, if I wanted to make bold words in html, I would type \<b>bolded words\</b>, and it would appear as: **bolded words**.
+4. Use the index.html page as a guide for your html page.  Note that HTML uses "tags" that are enclosed in brackets like this: < >. Tags typically come in pairs--an **open** tag and a **close** tag.  For instance, if I wanted to make bold words in HTML, I would type \<b>bolded words\</b>, and it would appear as: **bolded words**.
 
 5. Your HTML page must include links to your markdown files. (Again, use the index.html file for reference--it links to this file).
 
