@@ -57,11 +57,16 @@ Practicum Requirements and Techniques
 
 2. Create a new file in this folder (click **Create New**); give it a name describing your transcription, and add **.md** at the of the file name. This indicates that the file will be created using Markdown.
 
-3. Edit the document.  Each time you make a set of edits, you will [commit](https://help.github.com/articles/github-glossary/#commit) the changes by entering a note about what you did (added link, fixed spelling error, etc.) and clicking **Commit** at the bottom of the page. Use the [GitHub Flavored Markdown](https://github.github.com/gfm/) reference for help.  
+3. Edit the document.  Each time you make a set of edits, you will [commit](https://help.github.com/articles/github-glossary/#commit) the changes by entering a note about what you did (added link, fixed spelling error, etc.) and clicking **Commit** at the bottom of the page. Use the [GitHub Flavored Markdown](https://github.github.com/gfm/) reference for help.
+
    You can use this document as a guide for using Markdown--this is of course, a Markdown document. These lines are indented; using 3 blank spaces at the begining of the first line will cause the indent.  
+   
    For "regular" text, there is nothing to do, but type.  Surround text that you want **bold** with two asterisks.
+   
    Make a line into a "headline" by putting 3 dashes under it (don't indent the dashes)--the "Practicum Requirements and Techniques" line above is an example of this.
+   
    Draw a horizontal line by using 3 dashes--but this time, indent the 3 dashes with 3 spaces AND make sure there is a blank line a above the three dashes.
+   
    Make a numbered list by using a number--and leaving a blank line after each numbered item.
    
 4. When you are satisfied that you have finished your edits, create a [Pull Request](https://help.github.com/articles/github-glossary/#pull-request).  this will notify the owner of the original repository that you are ready for your changes and additions to be merged into the master project.  Click **Pull Request** at the top of your repository, then **New Pull Request** then **Create Pull Request**.
