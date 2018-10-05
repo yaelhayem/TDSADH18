@@ -83,6 +83,8 @@ Practicum Requirements and Techniques
    Navigate to the **css** folder, click on it, create a new file, and add **.css** at the end of the file to indicate this file is a Cascading Style Sheet.
 
 4. Use the index.html page as a guide for your html page.  Note that HTML uses "tags" that are enclosed in brackets like this: < >. Tags typically come in pairs--an **open** tag and a **close** tag.  For instance, if I wanted to make bold words in HTML, I would type \<b>bolded words\</b>, and it would appear as: **bolded words**.
+   
+   Note how you "connect" your css file to your html file (using \<link ref = "/css/yourcssfile.css"\>).
 
 5. Your HTML page must include links to your markdown files. (Again, use the index.html file for reference--it links to this file).
 
