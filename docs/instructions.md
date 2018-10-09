@@ -41,7 +41,7 @@ Practicum Preparation Steps
 
    To [fork](https://help.github.com/articles/github-glossary/#fork) a repository is to make a copy of it in you own account. The copy "remembers" where it came from, so you can merge your fork back to the original repository. This is one of the fundamental ways GitHub can be used for collaboration (it also keeps track of each change).
    
-You now haave a repository that you can edit!
+You now have a repository that you can edit!
 ---
 
 We'll be transcribing documents using [Markdown](https://help.github.com/articles/github-glossary/#markdown), as well as creating a web page using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).
