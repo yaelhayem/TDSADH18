@@ -57,9 +57,11 @@ Create a Headline:
 Write the headline, then put three equals signs beneath it on the next line, (don't indent the three equals signs).  So:
 
 Headline
+
 \===
 
 Becomes:
+
 Headline
 ===
 
