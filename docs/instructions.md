@@ -1,14 +1,13 @@
 **For the Markdown/HTML Practicum, the class will use GitHub to collaborate in creating a web site composed primarily of transcribed historical archives.**
 
-Choices to be made/Questions to Answer:
+Practicum Outcomes:
 
 1. Students will create an HTML page, a CSS document, and Markdown documents.
 
-2. What specific editing techniques should be explored?
+2. Specific techniques to apply:
 
-   For example, if the students are transcribing newspaper articles, they might be asked to get as close to the original as possible by using headline text/font, indenting of paragraphs, lists with numbers, including photos, etc. 
-   Are footnotes required? Optional?
-   Other formatting requirements/options?
+   For example, if the document being transcribed is a newspaper article, the idea is to get as close to the original as possible by using headline text/font, indenting of paragraphs, lists with numbers, including photos, etc. 
+   Footnotes may be required, as will other formatting options.
 
 3. What item type(s) are acceptable/required?
 
@@ -40,6 +39,9 @@ Practicum Preparation Steps
 3. **Fork** the repository by clicking the Fork icon in the upper right, and then click on your account name in the resulting pop-up window.
 
    To [fork](https://help.github.com/articles/github-glossary/#fork) a repository is to make a copy of it in you own account. The copy "remembers" where it came from, so you can merge your fork back to the original repository. This is one of the fundamental ways GitHub can be used for collaboration (it also keeps track of each change).
+   
+4. To see the repository on-line, you will need to go to the **Settings** tab, then scroll down.  In the **Github Pages** section, you need to choose a **source**.  Choose **Master Branch**.  Now you can return to this section, and you will see a live link to your web site.
+         **Note:** to see new pages you have added (including your Markdown document), you will need to add a link.  You will eventually add a link to your own HTML page, and that page will be linked--by the teachers--to the master HTML page.  To see your Markdown online before you add a link, you can open the site, delete whatever comes after **TDSADH18/**, and replace it with: **../docs/name_of_your_document**.
    
 You now have a repository that you can edit!
 ---
