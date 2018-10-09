@@ -2,25 +2,6 @@ Source<sup><a href="#fn1" id="ref1">1</a></sup>
 
 The original article (in PDF form)<sup><a href="#fn2" id="ref2">2</a></sup> [can be found here](../files/times_litte_rock_92557.pdf).
 
-Some text with a footnote.<sup><a href="#fn1" id="ref1">1</a></sup>
-
-Some more text with a footnote.<sup><a href="#fn2" id="ref2">2</a></sup>
-
-Some more text with a footnote.<sup><a href="#fn3" id="ref3">3</a></sup>
-
-Some more text with a footnote.<sup><a href="#fn4" id="ref4">4</a></sup>
-
-<hr></hr>
-
-<sup id="fn1">1. [Text of footnote 1]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
-
-<sup id="fn2">2. [Text of footnote 2]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
-
-<sup id="fn3">3. [Text of footnote 3]<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
-
-<sup id="fn4">4. [Text of footnote 4]<a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
-
-
 
 Troops on Guard at School; 
 ==========================
