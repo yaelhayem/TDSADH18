@@ -41,6 +41,7 @@ Practicum Preparation Steps
    To [fork](https://help.github.com/articles/github-glossary/#fork) a repository is to make a copy of it in you own account. The copy "remembers" where it came from, so you can merge your fork back to the original repository. This is one of the fundamental ways GitHub can be used for collaboration (it also keeps track of each change).
    
 4. To see the repository on-line, you will need to go to the **Settings** tab, then scroll down.  In the **Github Pages** section, you need to choose a **source**.  Choose **Master Branch**.  Now you can return to this section, and you will see a live link to your web site.
+
          **Note:** to see new pages you have added (including your Markdown document), you will need to add a link.  You will eventually add a link to your own HTML page, and that page will be linked--by the teachers--to the master HTML page.  To see your Markdown online before you add a link, you can open the site, delete whatever comes after **TDSADH18/**, and replace it with: **../docs/name_of_your_document**.
    
 You now have a repository that you can edit!
