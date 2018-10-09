@@ -1,6 +1,6 @@
 Source<sup><a href="#fn1" id="ref1">1</a></sup> 
 
-The original article (in PDF form)<sup><a href="#fn2" id="ref2">2</a></sup> [can be found here](../files/times_litte_rock_92557.pdf).
+The original article (in PDF form)<sup><a href="#fn2" id="ref2">2</a></sup>
 
 
 Troops on Guard at School; 
