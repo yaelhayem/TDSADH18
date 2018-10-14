@@ -99,7 +99,7 @@ Part B: HTML Page (and CSS)
 
 5. Your HTML page must include links to your markdown files. (Again, use the index.html file for reference--it links to this file).
 
-6. When you are satisfied with your changes, make a Pull Request to have your pages merged into the master project.
+6. When you are satisfied with your changes, make a Pull Request to have your pages merged into the master project.  When the Golden Master is fully updated, make a reverse pull request to update your own repository (making it the same as the Golden Master).
 
 
 
