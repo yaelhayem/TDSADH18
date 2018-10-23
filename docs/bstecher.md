@@ -1,4 +1,5 @@
-Yorkville
+Review and History of Yorkville
 === 
 
-[This text will be displayed as a link to Google](www.google.com)
+![Excerpt from *A Loiterrer in New York* by Helen W. Henderson](../images/A Loiterrer in New York1.pdf)
+
