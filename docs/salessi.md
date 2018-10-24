@@ -1,2 +1,4 @@
-Yorkville History
-TBD
+Mansion house renovations; 
+===
+(!)[Picture Title](.../images/Mansion Floorplan.pdf)
+
