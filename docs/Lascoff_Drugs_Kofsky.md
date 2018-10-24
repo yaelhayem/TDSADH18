@@ -19,8 +19,8 @@ Lascoff's, With Brisk Trade
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By GAY TALESE
 
 
-&nbsp;&nbsp; Within a serene brownstone. 
-on Lexington Avenue, on the. 
+&nbsp;&nbsp; Within a serene brownstone. <br/>
+on Lexington Avenue, on the. <br/>
 corner of Eighty-second Street,  
 
 a 59-year-old pharmacist named
