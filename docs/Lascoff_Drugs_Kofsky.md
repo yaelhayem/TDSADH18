@@ -20,9 +20,13 @@ Lascoff's, With Brisk Trade
 
 
 &nbsp;&nbsp; Within a serene brownstone
+
 on Lexington Avenue, on the
+
 corner of Eighty-second Street,
+
 a 59-year-old pharmacist named
+
 Frederick D. Lascoff has spe-
 cialized for years in selling
 leeches to battered prize-fight-
