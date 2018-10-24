@@ -129,4 +129,4 @@ Image title is as follows:
 a memento of Prohibition days, stands on a shelf at the<br/>
 Lascoff Drugstore on upper Lexington Avenue. The label<br/>
 indicates that the prescription--required in those times--<br/>
-called for four daily doses of two teaspoonfuls each.
+called for four daily doses of two teaspoonfuls each.**
