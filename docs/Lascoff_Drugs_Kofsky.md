@@ -48,7 +48,7 @@ Leon Lascoff & Son has made a<br/>
 reputation for producing bi-<br/>
 zarre concotions when re-<br/>
 quested.<br/>
-**&nbsp;&nbsp;&nbsp;Fighters Steady Customers**
+**&nbsp;&nbsp;&nbsp;Fighters Steady Customers**<br/>
 &nbsp;&nbsp;&nbsp;Prize-fighters wishing to have<br/>
 blood sucked from their facial <br/>
 wounds have been some of Mr. <br/>
@@ -94,7 +94,7 @@ and silk hat and took a job in<br/>
 a drugstore  at $2 an hour. <br/>
 Among other things, he washed <br/>
 windows.
-&nbsp;&nbsp;&nbsp;**Firm Founded in 1899**
+&nbsp;&nbsp;&nbsp;**Firm Founded in 1899**<br/>
 &nbsp;&nbsp;&nbsp;He started his own firm in <br/>
 1899, a year before the birth <br/>
 of his son, the present owner, <br/>
@@ -112,7 +112,8 @@ Lascoff firm has an interna-<br/>
 tional trade that includes royal-<br/>
 ty, the rich, and far-flung hos-<br/>
 pitals.
-&nbsp;&nbsp;&nbsp;It moved to its present spot on Eighty-second Street in 1931<br/>
+&nbsp;&nbsp;&nbsp;It moved to its present spot <br/>
+on Eighty-second Street in 1931<br/>
 --on ground that formerly was<br/>
 a saloon.  This seems strangely<br/>
 fitting, because all during Pro-<br/>
