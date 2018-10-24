@@ -1,3 +1,3 @@
 Lascoff Drugs
 --- 
-(../images/110085146.pdf)
+!(New York Times)(../images/110085146.pdf)
