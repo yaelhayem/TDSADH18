@@ -12,8 +12,8 @@ Lascoff's, With Brisk Trade
 ---
 in Exotic Potions, Snubs
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Soda Fountain Era
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Soda Fountain Era
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---------
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---------
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By GAY TALESE
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By GAY TALESE
