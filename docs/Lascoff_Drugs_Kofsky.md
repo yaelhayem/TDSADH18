@@ -93,7 +93,7 @@ States in a Prince Albert coat <br/>
 and silk hat and took a job in<br/>
 a drugstore  at $2 an hour. <br/>
 Among other things, he washed <br/>
-windows.
+windows.<br/>
 &nbsp;&nbsp;&nbsp;**Firm Founded in 1899**<br/>
 &nbsp;&nbsp;&nbsp;He started his own firm in <br/>
 1899, a year before the birth <br/>
@@ -122,3 +122,11 @@ hibition a familiar slogan was:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cry, <br/>
 &nbsp;&nbsp;&nbsp;You'll be a drugstore by and <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by."
+
+
+Image title is as follows:
+**FOR MEDICINAL PURPOSES: Empty whisky bottle, <br/>
+a memento of Prohibition days, stands on a shelf at the<br/>
+Lascoff Drugstore on upper Lexington Avenue. The label<br/>
+indicates that the prescription--required in those times--<br/>
+called for four daily doses of two teaspoonfuls each.
