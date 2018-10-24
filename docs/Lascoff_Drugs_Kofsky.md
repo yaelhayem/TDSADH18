@@ -48,8 +48,8 @@ Leon Lascoff & Son has made a<br/>
 reputation for producing bi-<br/>
 zarre concotions when re-<br/>
 quested.<br/>
-&nbsp;&nbsp;&nbsp;Fighters Steady Customers
----
+**&nbsp;&nbsp;&nbsp;Fighters Steady Customers**
+
 &nbsp;&nbsp;&nbsp;Prize-fighters wishing to have<br/>
 blood sucked from their facial <br/>
 wounds have been some of Mr. <br/>
