@@ -48,3 +48,30 @@ Leon Lascoff & Son has made a<br/>
 reputation for producing bi-<br/>
 zarre concotions when re-<br/>
 quested.<br/>
+&nbsp;&nbsp;&nbsp;Fighters Steady Customers
+---
+&nbsp;&nbsp;&nbsp;Prize-fighters wishing to have<br/>
+blood sucked from their facial <br/>
+wounds have been some of Mr. <br/>
+Lascoff's  steadiest  customers.<br/>
+And when the African explorer <br/>
+Martin  Johnson  was  off  to<br/>
+hunt  lions,  he  first equipped <br/>
+himself with catnnip oil from the <br/>
+druggist. <br/>
+&nbsp;&nbsp;&nbsp;But one of the most unusual <br/>
+requests  came from another <br/>
+drugstore  owner, who  once <br/>
+wrote Mr. Lascoff to ask: "Can <br/>
+you please tell me what I can<br/>
+do to make my drugstore smell<br/>
+like  a  drug  store?"  Seems<br/>
+that food odors in his establish-<br/>
+ment overpowered the desirable<br/>
+"drugstore smell."<br/>
+&nbsp;&nbsp;&nbsp; Soon Mr. Lascoff evolved  a<br/>
+formula  of  phenol,  valerian, <br/>
+asafetida and iodoform;  and,<br/>
+sure enough, it gave forth a <br/>
+drugstore scent. <br/>
+
