@@ -1,8 +1,6 @@
-This is a transcription of an article from the New York Times, published September 25, 1957.  
+Source<sup><a href="#fn1" id="ref1">1</a></sup> 
 
-The original article (in PDF form) [can be found here](../files/times_litte_rock_92557.pdf).
-
-
+The original article (in PDF form)<sup><a href="#fn2" id="ref2">2</a></sup>
 
 
 Troops on Guard at School; 
@@ -21,3 +19,10 @@ LITTLE ROCK, Ark., Sept. 24---Troops from the Army's crack 101st Airborne Divisi
 
 The photo that accompanied this article:
 ![Soldiers in Little Rock](../images/little_rock_photo.JPG)
+
+   ---
+   
+<sup id="fn1">1.[This is a transcription of an article from the New York Times, published September 25, 1957.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
+<sup id="fn2">2. [[PDF of original can be found here](../files/times_litte_rock_92557.pdf)]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+

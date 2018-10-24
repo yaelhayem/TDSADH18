@@ -1,18 +1,17 @@
 **For the Markdown/HTML Practicum, the class will use GitHub to collaborate in creating a web site composed primarily of transcribed historical archives.**
 
-Choices to be made/Questions to Answer:
+Practicum Outcomes:
 
-1. Students will create an HTML page, a CSS document, and Markdown documents.
+1. Students will create GitHub accounts, and participate in a shared project by contributing a transcribed archived newspaper article or hand-written text. The transcription will be done using Markdown.
 
-2. What specific editing techniques should be explored?
+2. Students will apply HTML and CSS to create an HTML page that contains a link to their Markdown document.  
 
-   For example, if the students are transcribing newspaper articles, they might be asked to get as close to the original as possible by using headline text/font, indenting of paragraphs, lists with numbers, including photos, etc. 
-   Are footnotes required? Optional?
-   Other formatting requirements/options?
+3. Students will contribute their addtions to the class's shared project.
 
-3. What item type(s) are acceptable/required?
+4. Specific techniques to apply:
 
-   Newspaper articles?  Descriptions of physical items?  Letters/correspondence?  usw...
+   For example, if the document being transcribed is a newspaper article, the idea is to get as close to the original as possible by using headline text/font, indenting of paragraphs, lists with numbers, including photos, etc. 
+
 
 Reference
 ---
@@ -26,7 +25,10 @@ Reference
 
    ---
    
-Practicum Preparation Steps
+Practicum Steps
+===
+
+Part A, annotating with Markdown: Create GitHub Account, Fork (copy) "Golden Master" repository
 ---
 
 1. Create an account on [GitHub.com](https://github.com/)
@@ -41,25 +43,29 @@ Practicum Preparation Steps
 
    To [fork](https://help.github.com/articles/github-glossary/#fork) a repository is to make a copy of it in you own account. The copy "remembers" where it came from, so you can merge your fork back to the original repository. This is one of the fundamental ways GitHub can be used for collaboration (it also keeps track of each change).
    
-You now haave a repository that you can edit!
+4. To see the repository on-line, you will need to go to the **Settings** tab, then scroll down.  In the **Github Pages** section, you need to choose a **source**.  Choose **Master Branch**.  Now you can return to this section, and you will see a live link to your web site.
+
+   **Note:** to see new pages you have added (including your Markdown document), you will need to add a link.  You will eventually add a link to your own HTML page, and that page will be linked--by the teachers--to the master HTML page.  To see your Markdown online before you add a link, you can open the site, delete whatever comes after **TDSADH18/**, and replace it with: **../docs/name_of_your_document**.
+   
+You now have a repository that you can edit!
 ---
 
 We'll be transcribing documents using [Markdown](https://help.github.com/articles/github-glossary/#markdown), as well as creating a web page using [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).
 
    ---
 
-Practicum Requirements and Techniques
+Part A Continued: Create Markdown document.  Merge new additions back to "Golden Master" (by making a Pull request).  Make a "reverse" pull request to get additions from other students.
 ---
 
-**Creating a document using Markdown (you must transcribe 1 newpaper article):**
+**Creating a document using Markdown (you must transcribe 1 newpaper article or hand written document):**
 
 1. Navigate to the docs folder (in your repository, click on docs).
 
 2. Create a new file in this folder (click **Create New**); give it a name describing your transcription, and add **.md** at the of the file name. This indicates that the file will be created using Markdown.
 
-3. Edit the document.  Each time you make a set of edits, you will [commit](https://help.github.com/articles/github-glossary/#commit) the changes by entering a note about what you did (added link, fixed spelling error, etc.) and clicking **Commit** at the bottom of the page. Use the [GitHub Flavored Markdown](https://github.github.com/gfm/) reference for help.
+3. Edit the document.  Each time you make a set of edits, you will [commit](https://help.github.com/articles/github-glossary/#commit) the changes by entering a note about what you did (added link, fixed spelling error, etc.) and clicking **Commit** at the bottom of the page. Use [this quick guide](https://docs.google.com/document/d/1UAGXEyo_Yx6PSOJQR3r9mea1lI43aIdbhqFKpQI8U5E/edit?usp=sharing) and the [GitHub Flavored Markdown](https://github.github.com/gfm/) reference for help.
 
-   You can use this document as a guide for using Markdown--this is of course, a Markdown document. These lines are indented; using 3 blank spaces at the begining of the first line will cause the indent.  
+   You can also use this document as a guide for using Markdown--this is of course, a Markdown document. These lines are indented; using 3 blank spaces at the begining of the first line will cause the indent.  
    
    For "regular" text, there is nothing to do, but type.  Surround text that you want **bold** with two asterisks.
    
@@ -67,11 +73,16 @@ Practicum Requirements and Techniques
    
    Draw a horizontal line by using 3 dashes--but this time, indent the 3 dashes with 3 spaces AND make sure there is a blank line a above the three dashes.
    
-   Make a numbered list by using a number--and leaving a blank line after each numbered item.
+   Make a numbered list by using a number--and leaving a blank line after each numbered item. (Use hashtags instead of a number for a bulleted list.)
    
    Your repository has a "theme" selected, which affects the way your Markdown document appears.  You can experiment with different themes by going to the settings tab in your repository--scroll down until you see the theme section.
    
-4. When you are satisfied that you have finished your edits, create a [Pull Request](https://help.github.com/articles/github-glossary/#pull-request).  this will notify the owner of the original repository that you are ready for your changes and additions to be merged into the master project.  Click **Pull Request** at the top of your repository, then **New Pull Request** then **Create Pull Request**.
+4. When you are satisfied that you have finished your edits, create a [Pull Request](https://help.github.com/articles/github-glossary/#pull-request).  this will notify the owner of the original repository that you are ready for your changes and additions to be merged into the master project.  Click **Pull Request** at the top of your repository, then **New Pull Request** then **Create Pull Request**.  Enter a title (say what you added), then click **Create Pull Request** one more time.
+
+5. When others have contributed to the master project, you can update your copy to include all changes to the master. You'll create a "reverse" pull Request.  To do this, click **Pull Request**, but this time click the link that says *compare across forks*. Then change the *base fork* to yours, and the *head fork* to the "Golden Master" (the main project). Make sure the arrow points from the Golden Master to your repository.  Then click Enter a title (say you are updating your repository), then click **Create Pull Request** one more time.
+
+Part B: HTML Page (and CSS)
+---
 
 **Creating a new [HTML](https://help.github.com/articles/github-glossary/#markdown) Page**
 
@@ -88,7 +99,7 @@ Practicum Requirements and Techniques
 
 5. Your HTML page must include links to your markdown files. (Again, use the index.html file for reference--it links to this file).
 
-6. When you are satisfied with your changes, make a Pull Request to have your pages merged into the master project.
+6. When you are satisfied with your changes, make a Pull Request to have your pages merged into the master project.  When the Golden Master is fully updated, make a reverse pull request to update your own repository (making it the same as the Golden Master).
 
 
 
