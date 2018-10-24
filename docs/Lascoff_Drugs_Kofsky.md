@@ -21,31 +21,30 @@ Lascoff's, With Brisk Trade
 
 &nbsp;&nbsp; Within a serene brownstone. <br/>
 on Lexington Avenue, on the. <br/>
-corner of Eighty-second Street,  
-
-a 59-year-old pharmacist named
-
-Frederick D. Lascoff has spe-
-cialized for years in selling
-leeches to battered prize-fight-
-ers, catnip oil to lion hunters
-and thousands of strange po-
-tions to people in exotic places
-around the world.
-&nbsp;&nbsp;The Lascoff drugstore, which
-celebrated its sixtieth anniver-
-sary last week, is a Gothic-
-styled apothecary shop whose
-walls are lined with more than
-50,000 bottles containing every-
-thing from Acacia to zinc.
-&nbsp;&nbsp;It should not be inferred from
-the foregoing that Mr. Lascoff's
-apothecary shop carries only
-rare herbs and weird pills; far
-from it. the bulf of its business comes from standard prescrip-
-tions. But through the years J.
-Leon Lascoff & Son has made a
-reputation for producing bi-
-zarre concotions when re-
-quested.
+corner of Eighty-second Street,<br/>  
+a 59-year-old pharmacist named<br/>
+Frederick D. Lascoff has spe-<br/>
+cialized for years  in  selling<br/>
+leeches to battered prize-fight-<br/>
+ers, catnip oil to lion hunters<br/>
+and thousands of strange po-<br/>
+tions to people in exotic places<br/>
+around the world.<br/>
+&nbsp;&nbsp;The Lascoff drugstore, which<br/>
+celebrated its sixtieth anniver-<br/>
+sary last week, is a  Gothic-<br/>
+styled apothecary shop whose<br/>
+walls are lined with more than<br/>
+50,000 bottles containing every-<br/>
+thing from Acacia to zinc.<br/>
+&nbsp;&nbsp;It should not be inferred from<br/>
+the foregoing that Mr. Lascoff's<br/>
+apothecary shop  carries  only<br/>
+rare herbs and weird pills; far<br/>
+from it. the bulk of its business <br/>
+comes from standard prescrip-<br/>
+tions. But through the years J.<br/>
+Leon Lascoff & Son has made a<br/>
+reputation for producing bi-<br/>
+zarre concotions when re-<br/>
+quested.<br/>
