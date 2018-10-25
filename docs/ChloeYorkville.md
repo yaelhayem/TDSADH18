@@ -1,6 +1,6 @@
 If you're thinking of living in: Yorkville
 ===
-
-![Picture Title](../images/Yorkville NYTimes.pdf)
+Yorkville
+![Picture Title](../images/Yorkville NYTimes-1.jpg)
 
 Article
