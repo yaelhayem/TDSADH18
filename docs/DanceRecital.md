@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Martha Graham Gives Original Dance Recital** 
+**Martha Graham Gives Original Dance Recital** 
 ===
 
    ---
