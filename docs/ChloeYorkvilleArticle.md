@@ -1,6 +1,6 @@
 If you're thinking of living in: Yorkville
 ===
 
-![YorkvilleArticle](../images/TimesMachine/ May 22, 1983 - NYTimes.com)
+![Picture Title](../images/TimesMachine: May 22, 1983 - NYTimes.com.pdf)
 
----
+Article
