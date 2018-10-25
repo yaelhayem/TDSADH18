@@ -20,3 +20,7 @@ From a neighborhood that in 1900 was second in the world only to Berlin in the n
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The German influence was established in the early 1800's by prosperous families like the Rupperts, Ringlings, and Ehrets, who had their homes in Yorkville - and by other aristocrats like the Astors, Primes and Rhinelanders, who occupied river and country estates close by.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brownstones and tenement houses began to go up by 1835 following the opening of the New York and Harlem Railroad and a stagecoach line. The new housing attracted both prosperous and working-class Germans, and many laborers found employemnt in Yorkville's plants and breweries. 
+
+The ethnic legacy can be seen amid the high-rise developments, the smart shops and antiques stores. Notices posted otuside churches advise that services can be taken in German or Hungarian. In a few stores, Yorkville old-timers still buy delicacies that were once common supplies.
+
+Schaller & Weber, on Second Avenue between 85th and 86th Streets since 1937, sells wieners, knackwurst, bockwurts, bauernwurst and varieties of kielbasa and hams, as myriad "pork stores" in the neighborhood once did. From the front door of Lekvar-by-the-Barrel, at First Avenue and 82nd Street since 1926, drift the scents of spices and herbs - including the Hungarian paprika that the store's catalogue boasts is "perfect for soups, salads - and, of course, the most popular Hungarian dish of all - goulash!"
