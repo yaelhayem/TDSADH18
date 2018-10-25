@@ -3,7 +3,7 @@ A Loiterrer in New York Excerpt
 
 ![Picture Title](../images/A Loiterrer in New York1-1.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CENTRAL PARK EAST &nbsp;&nbsp; 335
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CENTRAL PARK EAST &nbsp;&nbsp; 335
 
 correct suburban fashion, on the high banks of
 the noblle Hudson; but Yorkville had mystery 
@@ -11,7 +11,7 @@ and interest of a richer flavour, commanding the
 passageway to the Sound, bordering on the tur-
 bulent waters of Hell Gate, and overlooking the 
 islands in the East River.
-&nbsp;&nbsp;&nbsp;The boundaries of Yorkville have been vari-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The boundaries of Yorkville have been vari-
 ously described.  From all accounts of nucleus
 of the village seems to have llain along the olld
 Post Road between Eighty-third and Eighty-
