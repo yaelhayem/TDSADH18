@@ -3,9 +3,6 @@ Bright Outlook in the Yorkville Section
 
 ![Bright Outlook in the Yorkville Section](../images/Bright outlook in the yorkville section.pdf)
 
-Bright Outlook in the Yorkville Section
-===
-
 **Chances for Speculators Along the Lexington Ave. Subway Route**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charles H. Schnelle, secretary of the House and Real Estate Owners' Association, says the realty furture of the Yorkville section is very bright. Along the route of the Lexington avenue subway there is need of up-to-date apartment houses, and there speculative builders will be able to put up many high class apartment houses. 
@@ -39,4 +36,5 @@ Bright Outlook in the Yorkville Section
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While this tenement and factory building was taking place east of Third avenue, the westerly half of the section was being transformed into the choicest home district of New York. And since that time in the upper Fifth avenue section have been the homes of many persons prominent in society and business circles.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not many years ago the old-fashioned horsecar disappeared from this section. The transit facilities of Yorkville first comprised horsecar lines, next followed elevated roads, then cable cars, then trolleys, and now the entire region is being permanently linked to the great subway routes of New York by the building of the Lexington avenue subway line.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To-day Yorkville is a thickly populated and thriving section of the city. It has manufacturing concerns of many kinds, small and large department stores, more than six popular theatres, handsome clubhouses, numerous banks, trust companies and saving instritutions, and a large number of flourishing churches. A few old landmarks still remain of the days when Yorkville was most suitable for summer homes. In the northeasterly section, fronting on the East River, is the house built by Archibald Gracie in 1813. It is surrounded by several acres of beautiful trees and shrubs. The house and land comprise one of the city's finest breathing spaces, known as Carl Schurz's Park.
