@@ -1,6 +1,7 @@
 Yorkville Turns Chic and Costly
 ===
 
-![Picture Title](../images/YorkvilleTurnsChicandCostly.pdf)
-![Picture Title](../images/YorkvilleTurnsChicandCostlyPart2.pdf)
+![Picture Title](../images/YorkvilleTurnsChicandCostlyNEWPart1.jpg)
+![Picture Title](../images/YorkvilleTurnsChicandCostlyNEWPart2.jpg)
+
 
