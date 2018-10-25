@@ -3,9 +3,9 @@
 ![Picture Title](../files/200153896.pdf)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N.Y.(Yorkville)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N.Y.(Yorkville)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Advance." Jan.9.1936.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Advance." Jan.9.1936.
 
 &nbsp;**Martha Graham Gives Original Dance Recital**
 
