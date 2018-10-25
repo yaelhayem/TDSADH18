@@ -20,4 +20,8 @@ Yorkville Turns Chic and Costly
    
   "The city has moved north, the pressures have moved north," said Assemblyman Alexander B. Grannis, a Democrat-Liberal who represents the district. "Now this area is a prie real-estate area. In the next 10 years, it's going to become very chic and expensive - like the rest of the Upper East Side." 
    
-  Within a decade, according to Mr. Robbins, the whole area will be totally developed
+  Within a decade, according to Mr. Robbins, the whole area will be totally developed. "And then the question is: 'Can it go above 96th Street?'" he said. Now under way, he added, is the construction of 980 apartment units, and 1,300 more are possible in the next several years.
+  
+  The newcomers pay rents that shock the old-timers living in $200-a-month rent stabilized railroad flats and are viewed with some wariness by people like Susie Faldetta, 21 years old, who grew up in a tenement on 90th Street and wistfully remembers the old days when "everybody knew everybody else and no one on the whole block was rich."
+  
+  The newcomers have tastes that attract merchants like Beverly Fetner, who recently opened  Main Course, a gourmet catering shop at 1608 Third Avenue near 90th Street. While Mrs. Fetner was at first skeptical about Yorkville- "I used to drive down Second Avenue with my doors locked," she said- a quick study o the people 
