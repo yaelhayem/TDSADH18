@@ -7,7 +7,7 @@ If you're thinking of living in: Yorkville
 
 From a neighborhood that in 1900 was second in the world only to Berlin in the number of German esidents, the area of the Upper East Side known as Yorkville has been transformed into a mostly upscale community that is more silk stocking than lederhosen.
 
-The dispersion of the Germans - and the Hungarians, Irish, and Slavs who followed then - resulted from the demoltion of the Third Avenue El in 1955 and the ensuing boom in high-rise apartment constructions. High rents altered the neighborhood's character, bringing more of a cross section of people to liv in housing that ranges from the million-dollar co-ops of East End Avenue to doorman rental buildings to low- and middle-income housing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dispersion of the Germans - and the Hungarians, Irish, and Slavs who followed then - resulted from the demoltion of the Third Avenue El in 1955 and the ensuing boom in high-rise apartment constructions. High rents altered the neighborhood's character, bringing more of a cross section of people to liv in housing that ranges from the million-dollar co-ops of East End Avenue to doorman rental buildings to low- and middle-income housing.
 
 Today's Yorkville is a bustling area, with streets that provide diversions that a moneyed, heterogeneious community desires. Gimbel's Department Store rises 11 stories at 86th Street and Lexington Avenue. There are squash clubs, first-run movie houses and restaurants that offer all variety of cuisine. 
 
