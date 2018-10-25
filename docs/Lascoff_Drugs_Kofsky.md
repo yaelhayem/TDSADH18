@@ -124,7 +124,7 @@ hibition a familiar slogan was:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by."
 
 
-Image title is as follows:
+Image title is as follows:<br/>
 **FOR MEDICINAL PURPOSES: Empty whisky bottle, <br/>
 a memento of Prohibition days, stands on a shelf at the<br/>
 Lascoff Drugstore on upper Lexington Avenue. The label<br/>
