@@ -1,9 +1,8 @@
-Michael says hi!
 
 NEIGHBORHOOD REPORT: UPPER EAST SIDE; Trying to Tame the Mishmash That Is East 86th Street
 ===
 
-By DAVID KIRBY                                                                                                   OCT. 29, 2000
+<div style= "text-align: center"> By DAVID KIRBY                                                                                                   OCT. 29, 2000 </div>
 
 For years, much of East 86th Street has been a noisy tangle of traffic, pedestrians, shoppers and street vendors. Recently, upscale businesses patronized by residents of neighboring town houses and high-rises have joined the mishmash of banks, clothing stores, pizza parlors -- not to mention piles of garbage -- that have characterized the area. Heavy crosstown traffic clogs the street and the subway stop at Lexington Avenue adds to congestion.
 ''Anything we can do to help that community improve is important to us,'' said Fran Sachs, director of strategic planning of Town Sports International, which owns the New York Sports Club on 86th Street near Lexington Avenue.
