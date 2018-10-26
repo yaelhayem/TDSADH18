@@ -16,6 +16,8 @@ Practicum Outcomes:
 Reference
 ---
 
+[Markdown CheatSheet](https://docs.google.com/document/d/1UAGXEyo_Yx6PSOJQR3r9mea1lI43aIdbhqFKpQI8U5E/edit)
+
 [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/)
 
 [HTML Tutorial](https://www.w3schools.com/html/html_intro.asp)
