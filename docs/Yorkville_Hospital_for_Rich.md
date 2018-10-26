@@ -1,8 +1,8 @@
 Hospital for Rich Now Aids East Side
 ===
-By RONALD SULLIVANNOV. 4, 1984
-=
-
+By RONALD SULLIVAN
+---
+NOV 4, 1984
 
 Doctors Hospital, once the medical preserve of the rich and famous on the Upper East Side, is becoming a highly visable community hospital serving Yorkville's large elderly population and its growing influx of young professionals.
 Toward that end, the 54-year-old hospital, at 170 East End Avenue, at 86th Street, is undergoing a $40 million renovation that is expected to be completed by the end of next year.
