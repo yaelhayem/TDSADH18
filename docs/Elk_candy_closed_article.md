@@ -94,4 +94,7 @@ Yorkville's Germain culture and cuisine. Here are the five significant places, o
 which is still in business in the area. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Karl Ehmer* (No. 230) Butcher and German food shop opened
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in New Jersey, 1932. Opened on 86th St., early 1950's. Closed around 1987, but operates other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stores in the metropolitan region. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in New Jersey, 1932. Opened on 86th St., early 1950's. Closed around 1987, but operates other
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stores in the metropolitan region. 
