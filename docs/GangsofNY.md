@@ -2,7 +2,7 @@ The Other Gangs of New York
 ==================
 
 
-FOR serious enthusiasts of 19th-century municipal street crime, these are heady times indeed. The long-delayed release of Martin Scorsese's ''Gangs of New York,'' in and of itself, is a cause for celebration among aficionados of Manhattan-based violence, for at long last the story of the Dead Rabbits, the Daybreak Boys, the Patsy Conroys and the Roach Guards can be told. Coming on the heels of the reissue of Herbert Asbury's magisterial ''Gangs of New York: An Informal History of the Underworld,'' and renewed interest in Luc Sante's splendid 1991 book, ''Low Life,'' Mr. Scorsese's film, which opens Friday, is sure to rekindle America's love affair with its long-forgotten Irish-American street gangs and their nativist enemies.
+FOR serious enthusiasts of 19th-century municipal street crime, these are heady times indeed. The long-delayed release of Martin Scorsese's ''Gangs of New York,''<sup><a href="#fn1" id="ref1">1</a></sup> in and of itself, is a cause for celebration among aficionados of Manhattan-based violence, for at long last the story of the Dead Rabbits, the Daybreak Boys, the Patsy Conroys and the Roach Guards can be told. Coming on the heels of the reissue of Herbert Asbury's magisterial ''Gangs of New York: An Informal History of the Underworld,'' and renewed interest in Luc Sante's splendid 1991 book, ''Low Life,'' Mr. Scorsese's film, which opens Friday, is sure to rekindle America's love affair with its long-forgotten Irish-American street gangs and their nativist enemies.
 
 Even if Leonardo DiCaprio's casting as an Irish immigrant still seems a bit capricious.
 
@@ -25,3 +25,6 @@ By the end of the 19th century, street gangs had begun to fade into the pages of
 Yet the sleeping beast is there and, if disturbed, it will one day rise from its slumber and slink into the streets, seeking fresh victims. Perhaps as early as this weekend. Maybe in Queens or Brooklyn. Auteur of one of the most mesmerizingly gruesome films in recent memory, Martin Scorsese is to be congratulated for reminding us all of our hideously violent roots.
 
 And such a change of pace for the director.
+
+   ---
+   <sup id="fn1">1. [Amsterdam Vallon (Leonardo DiCaprio) is a young Irish immigrant released from prison. He returns to the Five Points seeking revenge against his father's killer, William Cutting (Daniel Day-Lewis), a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Amsterdam's journey becomes a fight for personal survival and to find a place for the Irish people in 1860's New York.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
