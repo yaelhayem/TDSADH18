@@ -40,3 +40,6 @@ For example, the daily rate that Blue Cross pays for hospitalization at Doctors 
 The renovation of Doctors includes plans for a new emergency room staffed by full-time physicians trained in emergency medicine, a radiology facility that includes nuclear medicine and ultrasound services, and an outpatient surgical center.
 
 However, there is some doubt whether the hospital will become part of the city's 911 emergency ambulance system, given the proximity of major emergency rooms at other nearby hospitals.
+
+Eugene O'Neill <sup><a href="#fn1" id="ref1">1</a></sup>
+<sup id="fn1">1. [Eugene O'Neill was an American playwright and Nobel laureate in Literature. Author of *Long Day's Journey into Night*, *The Iceman Cometh*, and *Beyond the Horizon*.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
