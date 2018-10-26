@@ -6,7 +6,7 @@ By RONALD SULLIVAN
 
 Doctors Hospital, once the medical preserve of the rich and famous on the Upper East Side, is becoming a highly visable community hospital serving Yorkville's large elderly population and its growing influx of young professionals.
 Toward that end, the 54-year-old hospital, at 170 East End Avenue, at 86th Street, is undergoing a $40 million renovation that is expected to be completed by the end of next year.
-Gone are the private rooms overlooking Gracie Mansion, Carl Schurz Park and the East River that were occupied over the years by such patients as James Thurber, Oscar Hammerstein 2d, Claire Boothe Luce, Eugene O'Neill, Eddie Cantor and Marilyn Monroe.
+Gone are the private rooms overlooking Gracie Mansion, Carl Schurz Park and the East River that were occupied over the years by such patients as James Thurber, Oscar Hammerstein 2d, Claire Boothe Luce, Eugene O'Neill<sup><a href="#fn2" id="ref2">2</a></sup>, Eddie Cantor and Marilyn Monroe.
 While the views are the same, most of the rooms are now semiprivate and relatively celebrity-free. Gone, too, are the hospital worker whose only job was to polish silver and the food-service sommelier whose major preoccupation was selecting the right wine for a patient's dinner.
 No Daily Rounds
 Moreover, patients no longer are hospitalized at Doctors because they need a rest, as Robert Moses was in 1948. As in every other hospital in the city, patients must be seriously ill to be admitted, or else private and public health insurers such as Blue Cross or Medicare will not pay for their care.
@@ -36,3 +36,5 @@ However, there is some doubt whether the hospital will become part of the city's
 
 
 <sup id="fn1">1. [A yuppie is a young college-educated adult who is employed in a well-paying profession and who lives and works in or near a large city]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
+<sup id="fn2">2. [Eugene O'Neill was an American playwright and Nobel laureate in Literature. Author of *Long Day's Journey into Night*, *The Iceman Cometh*, and *Beyond the Horizon*. 2]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
