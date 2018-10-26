@@ -1,6 +1,6 @@
 Lascoff Drugs
 --- 
-![Image of NY Times Article](../images/110085146.pdf)
+![Image of NY Times Article](../images/LascoffDrug60Years.jpg)
 
 **AT 60, DRUGSTORE**
 ---
