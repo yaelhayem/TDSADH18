@@ -18,7 +18,7 @@ In fact, the land was vacant, and the developer, Solomon Equities, has filed for
 
 Mrs. Solomon, the project manager for Astor Terrace, said relatively inexpensive land prices - less than $20 a square foot for a 48,000-square- foot parcel - have allowed the construction of larger and somewhat less costly apartments at this site than could be built in more coveted areas of the Upper East Side.
 
-This is not to say that the apartments are inexpensive. In the tower, Mrs. Solomon said, prices will start at ''less than $300 a square foot.'' That compares with $500 or more a square foot for housing in the most desirable areas of Manhattan and close to $400 a square foot for much of the Upper East Side. The three-story town houses, which are being constructed around an enclosed inner courtyard between 93d and 94th Streets, will cost more, although offering prices have not been set because the State Attorney General's office is still reviewing the prospectus.
+This is not to say that the apartments are inexpensive.<sup><a href="#fn1" id="ref1">1</a></sup> In the tower, Mrs. Solomon said, prices will start at ''less than $300 a square foot.'' That compares with $500 or more a square foot for housing in the most desirable areas of Manhattan and close to $400 a square foot for much of the Upper East Side. The three-story town houses, which are being constructed around an enclosed inner courtyard between 93d and 94th Streets, will cost more, although offering prices have not been set because the State Attorney General's office is still reviewing the prospectus.
 
 But on the basis of the apartment sizes in the tower - which range from 760-square-foot, one-bedroom units to 1,620-square-foot, three-bedroom units - prices could be expected to range from about $200,000 to $450,000.
 
@@ -35,3 +35,5 @@ All this construction will undoubtedly change the character of the upper Yorkvil
 They have responded, in part, by making the Astor Terrace tower face inward. The idea is to create what they call a ''complete community.'' The main tower entrance will be inside the block from a private inner drive, while the two rows of town houses will have their entrances on 93d Street and 94th Street, with terraces overlooking the courtyard. On the Second Avenue side, 15,000 square feet of street-level space will be leased to commercial tenants. The project was designed by Schuman, Lichtenstein, Claman & Efron.
 
 Fifty-two percent of the apartments are one-bedroom units, while 33 percent have two bedrooms and 11 percent have three bedrooms. The town houses, with two bedrooms and a third-floor greenhouse, are about 1,700 square feet.
+
+<sup id="fn1">1. [Text of footnote 1]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
