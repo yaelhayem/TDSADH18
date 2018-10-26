@@ -31,3 +31,8 @@ For example, the daily rate that Blue Cross pays for hospitalization at Doctors 
 
 The renovation of Doctors includes plans for a new emergency room staffed by full-time physicians trained in emergency medicine, a radiology facility that includes nuclear medicine and ultrasound services, and an outpatient surgical center.
 However, there is some doubt whether the hospital will become part of the city's 911 emergency ambulance system, given the proximity of major emergency rooms at other nearby hospitals.
+
+
+
+Yuppies <sup><a href="#fn4" id="ref4">4</a></sup>
+<sup id="fn1">1. [A yuppie is a young college-educated adult who is employed in a well-paying profession and who lives and works in or near a large city]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
