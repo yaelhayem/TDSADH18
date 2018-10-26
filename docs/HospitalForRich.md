@@ -19,7 +19,7 @@ Moreover, patients no longer are hospitalized at Doctors because they need a res
 
 There are no daily rounds at Doctors, because it is the only private, nonprofit hospital in Manhattan that does not have a physician teaching program, or any interns or residents. This means that patients are treated by their private attending physicians and surgeons, or by staff physicians who have completed their residency training.
 
-According to John C. Donaher Jr., hospital's earlier reputation as an elite medical enclave that did not practice ''serious medicine'' no longer holds true. Instead, he said, the 263-bed, 14- floor hospital is seeking to become an intregal part of the Upper East Side community, reaching out both to the very old and a growing younger population that he characterized as ''Yuppies.''
+According to John C. Donaher Jr., hospital's earlier reputation as an elite medical enclave that did not practice ''serious medicine'' no longer holds true. Instead, he said, the 263-bed, 14- floor hospital is seeking to become an intregal part of the Upper East Side community, reaching out both to the very old and a growing younger population that he characterized as ''Yuppies.<sup><a href="#fn2" id="ref2">2</a></sup>''
 
 The one constant is that Doctors still does not care for many poor patients. No Clinics or Ambulances
 
@@ -43,3 +43,5 @@ However, there is some doubt whether the hospital will become part of the city's
 
 
 <sup id="fn1">1. [Eugene O'Neill was an American playwright and Nobel laureate in Literature. Author of *Long Day's Journey into Night*, *The Iceman Cometh*, and *Beyond the Horizon*.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn2">2. [A "Yuppie" is a young, college-educated adult who is employed in a well-paying profession and who lives and works in or near a large city]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+
