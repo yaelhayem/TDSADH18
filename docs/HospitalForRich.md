@@ -43,5 +43,6 @@ However, there is some doubt whether the hospital will become part of the city's
 
 
 <sup id="fn1">1. [Eugene O'Neill was an American playwright and Nobel laureate in Literature. Author of *Long Day's Journey into Night*, *The Iceman Cometh*, and *Beyond the Horizon*.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
 <sup id="fn2">2. [A "Yuppie" is a young, college-educated adult who is employed in a well-paying profession and who lives and works in or near a large city]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
 
