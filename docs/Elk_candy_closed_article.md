@@ -26,6 +26,20 @@ Avenues, where it relocated two years ago
 after a fire. Several German establishments
 remain in other parts of Yorkville.
 
+&nbsp;A developer, the Related Companies, 
+bought the Montgomery and the six-story 
+Manhattan, No. 244, next to it, from FGH 
+Realty in February. The developer expects 
+demolition of the Montgomery to begin this 
+week. A 22-story luxury building with 245 
+rentals and 40,000 square feet of retail space 
+is to be built on the site by the end of 1998.
+
+&nbsp;''I don't know where I'm going to get 
+marzipan for Oma now,'' said Arturo 
+Gruenebaum, 29, referring to his grandmother. 
+
+
 
 
 
