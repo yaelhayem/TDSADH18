@@ -2,7 +2,7 @@ Hospital for Rich Now Aids East Side
 ===
 By RONALD SULLIVAN
 ---
-|NOV 4, 1984|
+| NOV 4, 1984 |
 
 Doctors Hospital, once the medical preserve of the rich and famous on the Upper East Side, is becoming a highly visable community hospital serving Yorkville's large elderly population and its growing influx of young professionals.
 Toward that end, the 54-year-old hospital, at 170 East End Avenue, at 86th Street, is undergoing a $40 million renovation that is expected to be completed by the end of next year.
@@ -10,9 +10,7 @@ Gone are the private rooms overlooking Gracie Mansion, Carl Schurz Park and the 
 While the views are the same, most of the rooms are now semiprivate and relatively celebrity-free. Gone, too, are the hospital worker whose only job was to polish silver and the food-service sommelier whose major preoccupation was selecting the right wine for a patient's dinner.
 No Daily Rounds
 Moreover, patients no longer are hospitalized at Doctors because they need a rest, as Robert Moses was in 1948. As in every other hospital in the city, patients must be seriously ill to be admitted, or else private and public health insurers such as Blue Cross or Medicare will not pay for their care.
-Continue reading the main story
-Advertisement
-Continue reading the main story
+
 
 There are no daily rounds at Doctors, because it is the only private, nonprofit hospital in Manhattan that does not have a physician teaching program, or any interns or residents. This means that patients are treated by their private attending physicians and surgeons, or by staff physicians who have completed their residency training.
 According to John C. Donaher Jr., hospital's earlier reputation as an elite medical enclave that did not practice ''serious medicine'' no longer holds true. Instead, he said, the 263-bed, 14- floor hospital is seeking to become an intregal part of the Upper East Side community, reaching out both to the very old and a growing younger population that he characterized as ''Yuppies.''
