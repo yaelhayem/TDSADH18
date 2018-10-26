@@ -7,7 +7,7 @@ A recent study by the city's Health Department indicates a sharp increase in the
 
 
 
-![ "Article"](https://github.com/bsnbk/TDSADH/images/article.png)
+![ "Article"](https://github.com/bsnbk/TDSADH18/images/article.png)
 
 
 Q. How we can explain this and how do we tell if it's a blip or not? CHIASSON What happens is that because health center districts are fairly small and the number of infant deaths is quite small in each of the districts, the rates are very unstable. And if you look at, for instance, just a simple graph of the infant mortality rate in Central Harlem over time, you'll see that the actual line bounces up and down all over the place. . . . In fact the overall trend in Central Harlem, like the rest of the city, is going down. . . .
