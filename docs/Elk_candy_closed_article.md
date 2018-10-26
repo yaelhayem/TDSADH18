@@ -38,52 +38,7 @@ is to be built on the site by the end of 1998.
 &nbsp;''I don't know where I'm going to get 
 marzipan for Oma now,'' said Arturo 
 Gruenebaum, 29, referring to his grandmother. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   &nbsp;He sadly entered the empty shop 
+He sadly entered the empty shop 
 with his cousins, Nancy and Anthony Weiss
 of Tampa, Fla. and a friend, Anusch Cutujian,
 of Hamburg, Germany.
@@ -93,12 +48,37 @@ whenver she was in town.
 &nbsp;''This is marzipan,'' Mr. Gruenebaum
 said. ''It was an institution.''
 
-&nbsp;Mr. Lulgjaraj, of Albanian descent, inherited the secrets of marzipan and chocolate-making from his father, Leka, who worked at Elk for 27 years, and bought it from Swiss-born Albert W. Hadener in 1990. Mr. Hadener bought the shop from the original owners, the Kramers, in 1961. Elk stands for Elizabeth and Ludwig Kramer. Mr. Lulgjaraj said he would look for another site in Yorkville to reopen.
+&nbsp;Mr. Lulgjaraj, of Albanian descent, inherited
+the secrets of marzipan and chocolate-
+making from his father, Leka, who worked 
+at Elk for 27 years, and bought it from
+Swiss-born Albert W. Hadener in 1990. Mr. 
+Hadener bought the shop from the original 
+owners, the Kramers, in 1961. Elk stands for 
+Elizabeth and Ludwig Kramer. Mr. Lulgjaraj
+said he would look for another site in
+Yorkville to reopen.
 
-Among the last customers was Kathy Jolowicz, a Yorkville historian. She picked up two cartloads of candy for the Zion St. Mark's Church's spring bazaar on Saturday. Ms. Jolowicz, who grew up in Yorkville, recalled little care packages her mother used to sent her several decades ago at boarding school in Tarrytown.
+&nbsp;Among the last customers was Kathy 
+Jolowicz, a Yorkville historian. She picked 
+up two cartloads of candy for the Zion St. 
+Mark's Church's spring bazaar on Saturday. 
+Ms. Jolowicz, who grew up in Yorkville, 
+recalled little care packages her mother 
+used to sent her several decades ago at 
+boarding school in Tarrytown.
 
-''She sent me chocolate candies,'' Ms. Jolowicz said, ''with different colored sprinkles -- nonpareils -- and lebkuchen.
+&nbsp;''She sent me chocolate candies,'' Ms. 
+Jolowicz said, ''with different colored sprinkles
+-- nonpareils -- and lebkuchen.
 
-Jane Schnitzer, who moved to the neighborhood in 1974, always gave her eldest daughter, Annabel, marzipan for Easter, Christmas and Valentine's Day.
+&nbsp;Jane Schnitzer, who moved to the neighborhood
+in 1974, always gave her eldest 
+daughter, Annabel, marzipan for Easter,
+Christmas and Valentine's Day.
 
-''I literally raised her on marzipan,'' said Ms. Schnitzer, whose daughter went to Brearley, on 83d Street, and is now a freshman at Barnard College. ''An awful lot of kids at Brearley will be disappointed.'' ROSALIE R. RADOMSKY
+&nbsp;''I literally raised her on marzipan,'' said 
+Ms. Schnitzer, whose daughter went to 
+Brearley, on 83d Street, and is now a freshman
+at Barnard College. ''An awful lot of 
+kids at Brearley will be disappointed.'' ROSALIE R. RADOMSKY
