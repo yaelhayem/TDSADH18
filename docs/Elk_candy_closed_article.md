@@ -94,7 +94,15 @@ Yorkville's Germain culture and cuisine. Here are the five significant places, o
 which is still in business in the area. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Karl Ehmer* (No. 230) Butcher and German food shop opened
+in New Jersey, 1932. Opened on 86th St., early 1950's. Closed around 1987, but operates other
+stores in the metropolitan region. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in New Jersey, 1932. Opened on 86th St., early 1950's. Closed around 1987, but operates other
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Bavarian Inn* (No. 232) Opened 1943. Closed December 1983. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stores in the metropolitan region. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Kleine Konditorei Cafe and Resttaurant* (No. 234) Opened 1926. Closed after fire on April 13, 1996. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ideal* (No. 236) Coffee shop opneed in 1932. Closed for a year after fire in 1994. Reopened as restaurant an dbar, at 322 E. 86th St. between First and Second Aves., on March , 1995. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Elk Cnady Company* (No. 240) Opened in 1930's at 92 East End Ave. Moved in the 40s to NO 240. Closed March 31, 1997.
+
+Sources  New-York Historical Society, Kathy Jolowicz, shop owners. 
