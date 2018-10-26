@@ -1,5 +1,5 @@
 
-When Babies Die: What Do the Numbers Mean?
+When :b:abies Die: What Do the Numbers Mean?
 =================
 
 A recent study by the city's Health Department indicates a sharp increase in the infant mortality rate of Central Harlem, from
