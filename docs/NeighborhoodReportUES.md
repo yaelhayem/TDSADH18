@@ -27,3 +27,5 @@ ADVERTISEMENT
 Continue reading the main story
 
 Some people felt there was too much whittling. ''We voted to support this, and some people donated money,'' said Kathy Jolowicz, president of the East 83rd/84th Block Association, which serves an area that was excluded. ''We were very disappointed.'' DAVID KIRBY
+
+<sup id="fn1">1. [A Business Improvement District is an area in which businesses underwrite efforts to maintain, beautify and improve the local neighborhood, while increasing its appeal for new businesses.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
