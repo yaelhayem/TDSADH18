@@ -1,3 +1,8 @@
 Mansion house renovations; 
 ===
-![Mansion Floorplan](TDSADH18/images/Mansion Floorplan.pdf)
+![Mansion Floorplan](../images/Mansion Floorplan.jpg)
+
+This is a photo of the Mansion Floorplan and article adjacent to Photo.
+
+
+
