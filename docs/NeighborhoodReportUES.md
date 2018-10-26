@@ -1,6 +1,7 @@
 Michael says hi!
 
-NEIGHBORHOOD REPORT: UPPER EAST SIDE; Trying to Tame the Mishmash That Is East 86th Street===
+NEIGHBORHOOD REPORT: UPPER EAST SIDE; Trying to Tame the Mishmash That Is East 86th Street
+===
 
 By DAVID KIRBY                                                                                                   OCT. 29, 2000
 
