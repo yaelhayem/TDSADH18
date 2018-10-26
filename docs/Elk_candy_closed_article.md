@@ -82,3 +82,16 @@ Ms. Schnitzer, whose daughter went to
 Brearley, on 83d Street, and is now a freshman
 at Barnard College. ''An awful lot of 
 kids at Brearley will be disappointed.'' ROSALIE R. RADOMSKY
+
+
+
+Streetscape
+===
+Vanishing Act
+===
+The south side of 86th St. between Second and Third Aves. was the hub of 
+Yorkville's Germain culture and cuisine. Here are the five significant places, only one of
+which is still in business in the area. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Karl Ehmer* (No. 230) Butcher and German food shop opened
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in New Jersey, 1932. Opened on 86th St., early 1950's. Closed around 1987, but operates other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stores in the metropolitan region. 
