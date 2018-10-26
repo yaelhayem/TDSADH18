@@ -9,7 +9,7 @@ Doctors Hospital, once the medical preserve of the rich and famous on the Upper 
 
 Toward that end, the 54-year-old hospital, at 170 East End Avenue, at 86th Street, is undergoing a $40 million renovation that is expected to be completed by the end of next year.
 
-Gone are the private rooms overlooking Gracie Mansion, Carl Schurz Park and the East River that were occupied over the years by such patients as James Thurber, Oscar Hammerstein 2d, Claire Boothe Luce, Eugene O'Neill, Eddie Cantor and Marilyn Monroe.
+Gone are the private rooms overlooking Gracie Mansion, Carl Schurz Park and the East River that were occupied over the years by such patients as James Thurber, Oscar Hammerstein 2d, Claire Boothe Luce, Eugene O'Neill<sup><a href="#fn1" id="ref1">1</a></sup>, Eddie Cantor and Marilyn Monroe.
 
 While the views are the same, most of the rooms are now semiprivate and relatively celebrity-free. Gone, too, are the hospital worker whose only job was to polish silver and the food-service sommelier whose major preoccupation was selecting the right wine for a patient's dinner.
 
@@ -41,5 +41,5 @@ The renovation of Doctors includes plans for a new emergency room staffed by ful
 
 However, there is some doubt whether the hospital will become part of the city's 911 emergency ambulance system, given the proximity of major emergency rooms at other nearby hospitals.
 
-Eugene O'Neill<sup><a href="#fn1" id="ref1">1</a></sup>
+
 <sup id="fn1">1. [Eugene O'Neill was an American playwright and Nobel laureate in Literature. Author of *Long Day's Journey into Night*, *The Iceman Cometh*, and *Beyond the Horizon*.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
