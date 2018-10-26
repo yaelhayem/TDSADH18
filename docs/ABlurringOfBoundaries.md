@@ -36,4 +36,4 @@ They have responded, in part, by making the Astor Terrace tower face inward. The
 
 Fifty-two percent of the apartments are one-bedroom units, while 33 percent have two bedrooms and 11 percent have three bedrooms. The town houses, with two bedrooms and a third-floor greenhouse, are about 1,700 square feet.
 
-<sup id="fn1">1. [Text of footnote 1]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn1">1. [The oldest recorded sale of an apartment in the Astor Terrace development on StreetEasy was a 1,046 square foot unit sold for $205,000 on January 18th, 1995]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
