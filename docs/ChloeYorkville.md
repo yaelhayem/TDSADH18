@@ -5,7 +5,7 @@ If you're thinking of living in: Yorkville
 
 ![Picture Title](../images/Yorkville NYTimes-crop.jpg)
 
-FROM a neighborhood that in 1900 was second in the world only to Berlin in the number of German esidents, the area of the Upper East Side known as Yorkville has been transformed into a mostly upscale community that is more silk stocking than lederhosen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FROM a neighborhood that in 1900 was second in the world only to Berlin in the number of German esidents, the area of the Upper East Side known as Yorkville has been transformed into a mostly upscale community that is more silk stocking than lederhosen.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dispersion of the Germans - and the Hungarians, Irish, and Slavs who followed then - resulted from the demoltion of the Third Avenue El in 1955 and the ensuing boom in high-rise apartment constructions. High rents altered the neighborhood's character, bringing more of a cross section of people to liv in housing that ranges from the million-dollar co-ops of East End Avenue to doorman rental buildings to low- and middle-income housing.
 
@@ -35,7 +35,7 @@ FROM a neighborhood that in 1900 was second in the world only to Berlin in the n
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Addy Fattal, director of rentals at J.I. Sopher, said rents on one- to three-bedroom apartments in elevator buildings with doormen ranged from $850 to more than $2,800. Edith Sachs, vice-president and director of co-op sales for Sopher, said it was possible to find one- and two-bedroom aparments for $110,000 to $160,000 on the "very low end of the market." But most co-ops are more costly, especially in buildings offering river views along East End Avenue and Gracie Square. 
 
-BY comparison with other parts of the city, Yorkville is not particularly afflicted by violent street crime: Its most conspicious problems - prostitution and drug sales - are visible on East 96th Street. Burglaries are numerous, particularly in the old tenement and walk-up buildings, which offer an intruder easy access. But overall, said Detective Jack McGuire of the 19th Preinct, "It is a neighborhood that is safe to go out and walk in."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BY comparison with other parts of the city, Yorkville is not particularly afflicted by violent street crime: Its most conspicious problems - prostitution and drug sales - are visible on East 96th Street. Burglaries are numerous, particularly in the old tenement and walk-up buildings, which offer an intruder easy access. But overall, said Detective Jack McGuire of the 19th Preinct, "It is a neighborhood that is safe to go out and walk in."
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yorkville still has the conveniences and comforts that attracted bordes of young people in the late 1960's before the rental market tightened up at the same time that the city's fiscal crisis began.
 
