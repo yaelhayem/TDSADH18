@@ -121,7 +121,7 @@ couldn't tell.'' <br/>
 &nbsp; Ms. Greenberg, who is <br/> 
 the new director of Rea- <br/> 
 son (Rezone Eastside <br/> 
-Arterials/ Save Our <br/>  
+Arterials/ Save Our <br/> 
 Neighborhood), advo- <br/> 
 cates a ''short and fat, <br/> 
 not tall and skinny'' ap- <br/> 
@@ -167,7 +167,7 @@ Sopher, the real estate company. <br/>
 ''There's a lot on the market right now in <br/> 
 Yorkville, with some good buys,'' he said. <br/> 
 
-&nbsp; Postwar one-bedroom co-ops west of <br/>  
+&nbsp; Postwar one-bedroom co-ops west of <br/>
 York Avenue range in price from $200,000 <br/> 
 to $500,000; new luxury condominiums <br/> 
 range from about $160,000 to $300,000. <br/> 
@@ -189,7 +189,7 @@ Storefronts, some of which had been <br/>
 boarded for years, have suddenly blos- <br/> 
 somed into such restaurants as E'cco-la <br/>
 at 93d Street and Third Avenue, and video <br/> 
-pstores and press-on nail shops. Many <br/>  
+pstores and press-on nail shops. Many <br/>
 small antiques shops in the neighborhood <br/> 
 seem so far to have survived commercial <br/> 
 rent increases. <br/>
