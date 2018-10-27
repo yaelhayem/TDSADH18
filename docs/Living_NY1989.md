@@ -185,18 +185,74 @@ Koch lives in Gracie Mansion. <br/>
 northern part of Yorkville has <br/> 
 spurred a rejuvenation of stores <br/> 
 along the avenues above 86th Street. <br/>
-Storefronts, some of which had been <br/> boarded for years, have suddenly blossomed into such restaurants as E'cco-la at 93d Street and Third Avenue, and video stores and press-on nail shops. Many small antiques shops in the neighborhood seem so far to have survived commercial rent increases.
+Storefronts, some of which had been <br/> 
+boarded for years, have suddenly blos- <br/> 
+somed into such restaurants as E'cco-la <br/>
+at 93d Street and Third Avenue, and video <br/> 
+pstores and press-on nail shops. Many <br/>  
+small antiques shops in the neighborhood <br/> 
+seem so far to have survived commercial <br/> 
+rent increases. <br/>
 
-What little is left of the German and Austro-Hungarian empire is evident on 86th Street, between Second and Third Avenues, where the Cafe Geiger and the Ideal Restaurant represent, respectively, the formal and informal approach to German cuisine. For Hungarian food, there is Mocca on Second Avenue between 82d and 83d Streets. It may say something appealing about the neighborhood that the health food store on 86th Street is boarded up, while the Marzipan Store next door seems to be thriving.
+&nbsp; What little is left of the German and <br/> 
+Austro-Hungarian empire is evident on <br/> 
+86th Street, between Second and Third <br/> 
+Avenues, where the Cafe Geiger and the <br/> 
+Ideal Restaurant represent, respectively, <br/> 
+the formal and informal approach to Ger- <br/> 
+man cuisine. For Hungarian food, there is <br/> 
+Mocca on Second Avenue between 82d <br/> 
+and 83d Streets. It may say something <br/> 
+appealing about the neighborhood that the <br/> 
+health food store on 86th Street is boarded <br/> 
+up, while the Marzipan Store next door <br/> 
+seems to be thriving. <br/> 
 
-On East 82d Street, between Second and Third Avenues, are other reminders: the Puski-Corvin Magyar Konyveshaz, a Hungarian book and record store. Next door, is the New York Psychoanalytic Institute, where spiritual descendants of Sigmund Freud tend to egos and ids.
+&nbsp; On East 82d Street, between Second and <br/> 
+Third Avenues, are other reminders: the <br/> 
+Puski-Corvin Magyar Konyveshaz, a <br/> 
+Hungarian book and record store. Next <br/> 
+door, is the New York Psychoanalytic <br/> 
+Institute, where spiritual descendants of <br/>
+Sigmund Freud tend to egos and ids. <br/>
 
-Religious institutions have played a major role in preserving Yorkville's cultures and in responding to need. Down the block from the Hungarian bookstore, on East 82d, is the Hungarian Reform Church, offering services in Hungarian.
+&nbsp; Religious institutions have played a <br/>
+major role in preserving Yorkville's cul- <br/>
+tures and in responding to need. Down the <br/>
+block from the Hungarian bookstore, on <br/>
+East 82d, is the Hungarian Reform <br/>
+Church, offering services in Hungarian. <br/>
 
-Many churches and synagogues have food or shelter programs for Yorkville's estimated 1,400 homeless. The quiet garden and French Gothic-style architecture of the Episcopalian Church of the Holy Trinity, on 88th Street between First and Second Avenues, offers an unexpected refuge from urban life.
+&nbsp; Many churches and synagogues have <br/>
+food or shelter programs for Yorkville's <br/>
+estimated 1,400 homeless. The quiet gar- <br/>
+den and French Gothic-style architecture <br/>
+of the Episcopalian Church of the Holy <br/>
+Trinity, on 88th Street between First and <br/>
+Second Avenues, offers an unexpected <br/>
+refuge from urban life. <br/>
 
-Yorkville is home to some of New York's elite private schools, including Chapin and Brearley, and at certain times of the day the streets are clogged with youngsters wearing prep-school plaid. Parents who cannot afford a prep school or do not choose to send their children to one have the choice of St. Joseph's Roman Catholic elementary school or Public Schools 198, 158, 151 or 190.
+&nbsp; Yorkville is home to some of New <br/>
+York's elite private schools, including <br/>
+Chapin and Brearley, and at certain times <br/>
+of the day the streets are clogged with <br/>
+youngsters wearing prep-school plaid. <br/>
+Parents who cannot afford a prep school <br/>
+or do not choose to send their children to <br/>
+one have the choice of St. Joseph's Roman <br/>
+Catholic elementary school or Public <br/>
+Schools 198, 158, 151 or 190. <br/>
 
-In P.S. 190, on 82d Street, between First and Second Avenues, is the Lab School for Gifted Education, an innovative seventh-and eighth-grade program. The Lab School has a computer link with Moscow school that allows students to do joint science, history and social studies projects.
+&nbsp; In P.S. 190, on 82d Street, between First <br/>
+and Second Avenues, is the Lab School for <br/>
+Gifted Education, an innovative seventh- <br/>
+and eighth-grade program. The Lab School <br/> 
+has a computer link with Moscow school <br/>
+that allows students to do joint science, <br/>
+history and social studies projects. <br/>
 
-Yorkville children who stay in the public schools traditionally go to Robert Wagner, the East Side's only junior high school, and on to one of the city's academic or specialized high schools. GAZETTEER Population: 68,200 (1985 estimate). Median 1-bedroom co-op price: $350,000. Median 1-bedroom condominium price: $230,000. Median 1-bedroom rental: $1,150. Transportation: Nos. 4, 5 and 6 subways; buses on 79th, 86th and 96th Streets and York, First, Second and Third Avenues. Government: Councilman Robert J. Dryfoos, Democrat-Liberal. First Branch: The Yorkville branch of the New York Public Library was the first of 39 branch libraries constructed in 1902 with money donated by Andrew Carnegie. The original facade survives, but the interior was modernized during a renovation three years ago and now, according to one neighborhood architectural critic, the Yorkville branch is ''Manhattan's first post-modernist library.''
+&nbsp; Yorkville children who stay in the pub- <br/>
+lic schools traditionally go to Robert Wag- <br/>
+ner, the East Side's only junior high <br/>
+school, and on to one of the city's academ- <br/>
+ic or specialized high schools. <br/>
