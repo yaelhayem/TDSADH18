@@ -162,10 +162,10 @@ workers and their families. <br/>
 &nbsp; Yorkville is no exception to the overall <br/> 
 stagnant Manhattan co-op and condomin- <br/> 
 ium market, said Greg Young, the vice <br/> 
-president for residential sales at J. I. <br/> \
+president for residential sales at J. I. <br/> 
 Sopher, the real estate company. <br/> 
 ''There's a lot on the market right now in <br/> 
-Yorkville, with some good buys,'' he said. <br/> 
+Yorkville, with some good buys,'' he said. <br/>
 
 &nbsp; Postwar one-bedroom co-ops west of <br/>
 York Avenue range in price from $200,000 <br/> 
