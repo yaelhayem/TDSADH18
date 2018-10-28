@@ -33,9 +33,69 @@ on Second Avenue near Thirty-fifth Street.
 
 ![Picture Title](../images/A Loiterrer in New York2-1.jpg)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340&nbsp;&nbsp;A LOITERRER IN NEW YORK 
+
+There was an old house at Horn's Hook,
+belonging to Mrs. Provoost, taken by Archibald
+Gracie, who built on the site the so-called
+" Gracie House," now included in the East
+River Park. This house in its day saw inter-
+esting life and extended princely hospitality, for
+its owner was a merchant and shipowner of
+
 ![Picture Title](../images/A Loiterrer in New York3-1.jpg)
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CENTRAL PARK EAST &nbsp;&nbsp; 341
+
+wealth and had excellent connections in this
+country; his son married the daughter of Oliver
+Wolcott. Josiah Quincy describes a dinner which
+he attended in the Gracie House in 1805. Wash-
+ington Irving was a frequent visitor, and the
+exciled king of France, Louis Philippe, is said
+to have been entertained here.
+Before the rocky bottom of the river was blown
+up at the point where the Harlem and East River
+tides collide in their rapid action, the waters of 
+Hell Gate were a formidable feature of the 
+navigation at this point. The Gracie House over-
+looked this prospect, and Quincy speaks of the 
+shores of Long Island as full of cultivated llands
+and elegant country seats. John Jacob Astor's 
+villa adjoined the Gracie estate, and Washington 
+Irving describes this delighful retreat, " opposite 
+Hell Gate," where he retouched and perfected 
+his "Astoria," written at Astor's request. 
+The spectacular entrance of the Queensborough 
+Bridge, united New York with Ravenswood, in 
+the borough of of Queens, has made terrific changes
+in this once peacful locality. One of the most 
+cruel is the partial destruction of that charming 
+realization of *Pomander's Walk*, the Riverview
+Terrace, a row of dwellings built directly on the 
+top of the rocks facing the river, andd cut off from
+
 ![Picture Title](../images/A Loiterrer in New York4-1.jpg)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;342&nbsp;&nbsp;A LOITERRER IN NEW YORK 
+
+all contamination by gates at each end, guarded 
+by a private watchman. Perhaps I feel towards
+this pretty block with especial tenderness, frmo 
+personal associations, for a certain house in the 
+terrace, held by an early schoolmate of my father,
+figures in my earliest and lates recolelctions of 
+New York. This charming old gentlemen has 
+been one of the stoutest defenders of his rights
+against the invasion of the enterprises connected
+with the construction and maintenance of the 
+bridge, which has taken to itself half of the
+houses. The bridge has brought many annoy-
+ances but contributes an amazing note to an 
+already exhilarating view of the river, the island,
+and the passing craft. 
 
 Hello World!
 
