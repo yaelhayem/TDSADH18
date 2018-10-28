@@ -21,4 +21,6 @@ REDLENER Well, it's clear that when you're dealing with small numbers like that,
 
 Footnotes:
 <b id="f1">1</b> Changed B to :b: for aesthetics [↩](#a1)
+
+
 <b id="f2">2</b> Not how the original article showed the images. [↩](#a2)
