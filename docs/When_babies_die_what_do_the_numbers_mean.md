@@ -18,4 +18,4 @@ REDLENER Well, it's clear that when you're dealing with small numbers like that,
 
 
 Footnotes:
-<b id="f1">1</b> Footnote content here. [↩](#a1)
+<b id="f1">1</b> Footnote content here.(#a1)
