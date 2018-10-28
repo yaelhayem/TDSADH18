@@ -128,7 +128,7 @@ is some reminders that architecture can stand <br/>
 for the public good. For this is a time that is in <br/>
 one way not so very different from the era in <br/>
 which the City and Suburban Homes was built <br/>
-- in both periods, the city's housing prob-<br/>
+in both periods, the city's housing prob-<br/>
 lem has been acute. In the early years of this <br/>
 century, the problem could be put mainly in <br/>
 terms of the quality of housing - conditions <br/>
