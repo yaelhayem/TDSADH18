@@ -167,7 +167,7 @@ cent for working people.<br/>
    Today with only tiny amounts of publicly <br/>
 assisted housing being constructed, we seem <br/>
 in some ways to have slid almost all the way <br/>
-back to the era before City and Subur-<br/>
+back to the era before City and Subur- <br/>
 ban Houses was even built, content to let the <br/>
 free market do what it wishes. That all too of- <br/>
 ten means building housing for the well-to-do, <br/>
