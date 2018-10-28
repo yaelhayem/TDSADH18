@@ -23,7 +23,7 @@ both the architectural and social history of <br/>
 the city - a monument to the moment <br/>
 when a solution to the city's housing prob-<br/>
 lems actually seemed possible. <br/>
-   ***&nbsp***In he first decade of this century, when the <br/>
+ *&nbsp*In he first decade of this century, when the <br/>
 1,300-unit complex was erected, the city <br/>
 faced a catastrophic housing crisis. <br/>
 Cramped, dark and dirty tenements were the <br/>
@@ -47,7 +47,7 @@ space. To an urban environment that had <br/>
 symbolized only harshness to many people, <br/>
 this complex brought dignity and joy. <br/>
 <br/>
-   ***&nbsp***All of this is significant today because the <br/>
+*&nbsp*All of this is significant today because the <br/>
 City and Suburban Homes, which as gone on <br/>
 housing people well for the better part of a <br/>
 century, is now threatened. An island of <br/>
@@ -87,7 +87,7 @@ hold a hearing on Thursday. If the build-<br/>
 ings are so designated, Mr. Kalikow would <br/>
 need the commission's approval to proceed<br/>
 with any version of his plan. <br/>
-***&nbsp***Although the City and Suburban Homes'<br/>
+*&nbsp*Although the City and Suburban Homes'<br/>
 somewhat similar neighbor, the Cherokee <br/>
 Apartments, has been a landmark for sev-<br/>
 eral years, the City and Suburban <br/>
@@ -109,7 +109,7 @@ signed for the rich. If you think of land-<br/>
 marks only as celebrations of the city's roman-<br/>
 tic imagery, there is not much that is romantic<br/>
 about a tenement - even a modeltenement.<br/>
-***&nbsp***But no view could be more shortsighted, or <br/>
+*&nbsp*But no view could be more shortsighted, or <br/>
 more limiting of what landmark status<br/>
 should signify. These structures, whichc were <br/>
 designed by several architectural forms of <br/>
@@ -123,7 +123,7 @@ much of the city's turn-of-the-century archi-<br/>
 tecture was elegant. But they are not bad as <br/>
 works of design, either. And no structures re-<br/>
 flect nobler aspirations.<br/>
-***&nbsp*** And today, if New York needs anything, it <br/>
+*&nbsp* And today, if New York needs anything, it <br/>
 is some reminders that architecture can stand <br/>
 for the public good. For this is a time that is in <br/>
 one way not so very different from the era in <br/>
@@ -139,7 +139,7 @@ human needs. Now, housing units are more <br/>
 civilized - the problem is that we do not <br/>
 build enough of them, and that many people <br/>
 are without housing altogether. <br/>
-***&nbsp*** The most striking difference between the <br/>
+*&nbsp* The most striking difference between the <br/>
 years the City and Suburban Homes was built <br/>
 and today is the extent to which in the earlier <br/>
 era the private esctor appeared commit-<br/>
@@ -164,7 +164,7 @@ decent housing for the poor. These apart-<br/>
 ments are monuments to possibility - to the <br/>
 belief that architecture can make city life de-<br/>
 cent for working people.<br/>
-***&nbsp***Today with only tiny amounts of publicly <br/>
+*&nbsp*Today with only tiny amounts of publicly <br/>
 assisted housing being constructed, we seem <br/>
 in some ways to have slid almost all the way <br/>
 back to the era before City and Subur-<br/>
