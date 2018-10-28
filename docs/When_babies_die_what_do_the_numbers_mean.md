@@ -1,5 +1,5 @@
 
-When :B:abies <sup id="a1">[1](#f1)</sup> Die: What Do the Numbers Mean?
+When :b:abies <sup id="a1">[1](#f1)</sup> Die: What Do the Numbers Mean?
 =================
 
 A recent study by the city's Health Department indicates a sharp increase in the infant mortality rate of Central Harlem, from
@@ -18,4 +18,4 @@ REDLENER Well, it's clear that when you're dealing with small numbers like that,
 
 
 Footnotes:
-<b id="f1">1</b> Changed B to :B: for aesthetics [↩](#a1)
+<b id="f1">1</b> Changed B to :b: for aesthetics [↩](#a1)
