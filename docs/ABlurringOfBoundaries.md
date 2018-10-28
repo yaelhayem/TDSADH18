@@ -2,7 +2,7 @@ A Blurring of Boundaries Between Two City Areas
 ===
 By KIRK JOHNSON
 
-Defining the exact border between Manhattan neighborhoods such as Yorkville and the Upper East Side can be a tricky business, complicated by history, local pride, real estate values and wishful thinking.
+Defining the exact border between Manhattan neighborhoods such as Yorkville and the Upper East Side<sup><a href="#fn2" id="ref2">2</a></sup> can be a tricky business<sup><a href="#fn3" id="ref3">3</a></sup>, complicated by history, local pride, real estate values and wishful thinking.
 
 Generally, Yorkville is considered to extend from 79th to 96th Street and from either Lexington or Third Avenue to the East River. But since land values are generally higher if they can be associated with the chic Upper East Side name, developers building in fringe areas tend to disregard the old boundaries and take the name that promises the highest value.
 
@@ -37,3 +37,7 @@ They have responded, in part, by making the Astor Terrace tower face inward. The
 Fifty-two percent of the apartments are one-bedroom units, while 33 percent have two bedrooms and 11 percent have three bedrooms. The town houses, with two bedrooms and a third-floor greenhouse, are about 1,700 square feet.
 
 <sup id="fn1">1. [The oldest recorded sale of an apartment in the Astor Terrace development on StreetEasy was a 1,046 square foot unit sold for $205,000 on January 18th, 1995]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
+<sup id="fn2">2. [The Upper East Side area was named for the first time in 1896 and was called "The Upper East Side Association of New-York City, according to ny.curbed.com]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+
+<sup id="fn3">3. [Yorkville is now generally considered a neighborhood of the Upper East Side, instead of a separate entity as it was at the time of the publication of this article]<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
