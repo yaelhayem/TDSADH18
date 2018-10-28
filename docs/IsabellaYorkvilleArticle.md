@@ -4,7 +4,7 @@ Yorkville Turns Chic and Costly
 ![Picture Title](../images/YorkvilleTurnsChicandCostlyNEWPart1.jpg)
 ![Picture Title](../images/YorkvilleTurnsChicandCostlyNEWPart2.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YORKVILLE, once a grity working-class neighborhood of German, Irish, and Hungarian immigrants, is gradually becoming part of the Upper East Side to which it had long been attached more by geography than character. The changes are perhaps best revealed not by the impact studies ofurban planners, but by taking a walk.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Y**ORKVILLE, once a grity working-class neighborhood of German, Irish, and Hungarian immigrants, is gradually becoming part of the Upper East Side to which it had long been attached more by geography than character. The changes are perhaps best revealed not by the impact studies ofurban planners, but by taking a walk.
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Croissants appeared a few weeks ago at Glaser's Bake Shop on the corner of First Avenue and 87th Street, where for eight decades the same family has been making linzer tortes and German coffee cakes. The cozy old bar on the corner of Third Avenue and 91st Street has been transformed into a singles cafe called Mumbles, and a few blocks down Third Avenue computers are being sold in what not too long ago was an Irish grocery.
    
@@ -26,7 +26,7 @@ Yorkville Turns Chic and Costly
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The newcomers have tastes that attract merchants like Beverly Fetner, who recently opened  Main Course, a gourmet catering shop at 1608 Third Avenue near 90th Street. While Mrs. Fetner was at first skeptical about Yorkville- "I used to drive down Second Avenue with my doors locked," she said- a quick study of the people who wait each morning for the Wall Street Express on the corner of 92nd Street and York Avenue convinced her that she would have no trouble finding takers for such offerings as auvin, duck á l'orange and chocolate mousse.
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''YOU could smell it - the young vital people who will be my market,'' she said as she supervised the final touches at her store, with its earth-tone walls and track lighting.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''**Y**OU could smell it - the young vital people who will be my market,'' she said as she supervised the final touches at her store, with its earth-tone walls and track lighting.
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like other new merchants and residents, Mrs. Fetner turned to Yorkville when she found she could not afford the rents elsewhere. She said she was paying $1,750 a month for her 750 square feet of shop space; a comparable amount of space on Columbus Avenue, on the West Side, would have cost her $3,700 a month.
 
@@ -48,7 +48,7 @@ Yorkville Turns Chic and Costly
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Morenzi said Mr. Grannis's office had received complaints of landlord harassment of elderly tenants who often pay less than $200 a month for the same railroad flats that newcomers are willing to rent for $600 and up.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DAVID STERN, executive director of the Lenox Hill Neighborhood Association, which serves a large part of the Upper East Side, agreed. ''There are tremendous economic incentives for landlords to get people out'' he said. ''Three or four years ago, if an elderly person became confused and became forgetful about paying rent, the landlord would call us up and say: 'Could you look in on so and so?'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D**AVID STERN, executive director of the Lenox Hill Neighborhood Association, which serves a large part of the Upper East Side, agreed. ''There are tremendous economic incentives for landlords to get people out'' he said. ''Three or four years ago, if an elderly person became confused and became forgetful about paying rent, the landlord would call us up and say: 'Could you look in on so and so?'
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''Today that same landlord will not call us, or will sue for dispossess or eviction. He'll say to himself: 'Hey - I want to make $700 a month rent.' ''
 
@@ -64,7 +64,7 @@ Yorkville Turns Chic and Costly
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The project, according to Jean Solomon, should attract an upper-middle-class clientele, families and singles. The construction manager is Tishman Realty & Construction. The architects are Sehuman, Claman, Lichenstein & Efron, with the firm of Skidmore, Owings & Merrill as design consultants.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''THIS is the new area for continuing development,'' said Mrs. Solomon, who owns Solomon Equities with her husband, David Solomon. The couple are completing Tower 49, an office building at Madison Avenue between 48th and 49th Streets.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''**T**HIS is the new area for continuing development,'' said Mrs. Solomon, who owns Solomon Equities with her husband, David Solomon. The couple are completing Tower 49, an office building at Madison Avenue between 48th and 49th Streets.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Glenwood Management will start next spring on two luxury residential rental high- rise projects totaling 498 units at York Avenue between 90th and 92nd Streets.
 
