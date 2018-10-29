@@ -15,7 +15,7 @@ and interest of a richer flavour, commanding the
 passageway to the Sound, bordering on the tur-
 bulent waters of Hell Gate, and overlooking the 
 islands in the East River.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The boundaries of Yorkville have been vari-
+The boundaries of Yorkville have been vari-
 ously described.  From all accounts of nucleus
 of the village seems to have llain along the olld
 Post Road between Eighty-third and Eighty-
