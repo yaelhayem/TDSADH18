@@ -44,7 +44,8 @@ Gracie, who built on the site the so-called
 River Park. This house in its day saw inter-
 esting life and extended princely hospitality, for
 its owner was a merchant and shipowner of
-  ---
+ 
+ ---
   
 ![Picture Title](../images/A Loiterrer in New York3-1.jpg)
 
