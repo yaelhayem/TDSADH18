@@ -88,7 +88,7 @@ top of the rocks facing the river, andd cut off from
 
 all contamination by gates at each end, guarded 
 by a private watchman. Perhaps I feel towards
-this pretty block with especial tenderness, frmo 
+this pretty block with especial tenderness, from 
 personal associations, for a certain house in the 
 terrace, held by an early schoolmate of my father,
 figures in my earliest and lates recolelctions of 
