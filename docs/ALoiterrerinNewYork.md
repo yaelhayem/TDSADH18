@@ -6,6 +6,8 @@ A Loiterrer in New York Excerpt
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CENTRAL PARK EAST &nbsp;&nbsp; 335
 
 <h1 align="center">CENTRAL PARK EAST</h1>
+<h2 align="center">CENTRAL PARK EAST</h2>
+<h3 align="center">CENTRAL PARK EAST</h3>
 
 correct suburban fashion, on the high banks of
 the noblle Hudson; but Yorkville had mystery 
