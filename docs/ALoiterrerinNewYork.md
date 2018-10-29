@@ -30,6 +30,8 @@ detention.  Until 1851 the old farmhouse of
 Jacob Kip, who gave his name to the bay, stood
 on Second Avenue near Thirty-fifth Street.
 
+  ---
+
 
 ![Picture Title](../images/A Loiterrer in New York2-1.jpg)
 
@@ -38,11 +40,12 @@ on Second Avenue near Thirty-fifth Street.
 There was an old house at Horn's Hook,
 belonging to Mrs. Provoost, taken by Archibald
 Gracie, who built on the site the so-called
-" Gracie House," now included in the East
+" Gracie House,"<sup><a href="#fn1" id="ref1">1</a></sup> now included in the East
 River Park. This house in its day saw inter-
 esting life and extended princely hospitality, for
 its owner was a merchant and shipowner of
-
+  ---
+  
 ![Picture Title](../images/A Loiterrer in New York3-1.jpg)
 
 
@@ -76,6 +79,7 @@ realization of *Pomander's Walk*, the Riverview
 Terrace, a row of dwellings built directly on the 
 top of the rocks facing the river, andd cut off from
 
+  ---
 ![Picture Title](../images/A Loiterrer in New York4-1.jpg)
 
 
@@ -97,5 +101,6 @@ ances but contributes an amazing note to an
 already exhilarating view of the river, the island,
 and the passing craft. 
 
-Hello World!
+<sup id="fn1">1. [Now known as Gracie Mansion!]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
 
