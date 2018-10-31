@@ -1,9 +1,14 @@
 86th Street Loses German Holdout And Its Marzipan
 ===
 
-&nbsp;Customers spilled out of Elk Candy onto the sidewalk in front of 240 East 86th Street a week before Easter. More than 500 a day were coming for homemade marzipan and chocolate confections -- bunnies, eggs and pigs. A sign in the window said the 64-year-old shop was closing for good.
+&nbsp;Customers spilled out of Elk Candy onto 
+the sidewalk in front of 240 East 86th Street 
+a week before Easter. More than 500 a day 
+were coming for homemade marzipan and 
+chocolate confections -- bunnies, eggs and 
+pigs. A sign in the window said the 64-year-old 
+shop was closing for good.
    
-&nbsp;''The line wouldn't break,'' said Anton Lulgjuraj, the 24-year-old owner, who inherited the shop from his father.
 &nbsp;''The line wouldn't break,'' said Anton 
 Lulgjuraj, the 24-year-old owner, who inherited 
 the shop from his father.
@@ -84,7 +89,6 @@ at Barnard College. ''An awful lot of
 kids at Brearley will be disappointed.'' ROSALIE R. RADOMSKY
 
 
-
 Streetscape
 ===
 Vanishing Act
@@ -93,16 +97,16 @@ The south side of 86th St. between Second and Third Aves. was the hub of
 Yorkville's Germain culture and cuisine. Here are the five significant places, only one of
 which is still in business in the area. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Karl Ehmer* (No. 230) Butcher and German food shop opened
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Karl Ehmer** (No. 230) Butcher and German food shop opened
 in New Jersey, 1932. Opened on 86th St., early 1950's. Closed around 1987, but operates other
 stores in the metropolitan region. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Bavarian Inn* (No. 232) Opened 1943. Closed December 1983. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Bavarian Inn** (No. 232) Opened 1943. Closed December 1983. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Kleine Konditorei Cafe and Resttaurant* (No. 234) Opened 1926. Closed after fire on April 13, 1996. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Kleine Konditorei Cafe and Resttaurant** (No. 234) Opened 1926. Closed after fire on April 13, 1996. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ideal* (No. 236) Coffee shop opneed in 1932. Closed for a year after fire in 1994. Reopened as restaurant an dbar, at 322 E. 86th St. between First and Second Aves., on March , 1995. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ideal** (No. 236) Coffee shop opneed in 1932. Closed for a year after fire in 1994. Reopened as restaurant an dbar, at 322 E. 86th St. between First and Second Aves., on March , 1995. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Elk Cnady Company* (No. 240) Opened in 1930's at 92 East End Ave. Moved in the 40s to NO 240. Closed March 31, 1997.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Elk Candy Company** (No. 240) Opened in 1930's at 92 East End Ave. Moved in the 40s to NO 240. Closed March 31, 1997.
 
 Sources  New-York Historical Society, Kathy Jolowicz, shop owners. 
