@@ -31,7 +31,8 @@ are gone. Only Ideal Restaurant is left
 on 86th Street, between First and Second
 Avenues, where it relocated two years ago
 after a fire. Several German establishments
-remain in other parts of Yorkville.
+remain in other parts of Yorkville.<sup><a href="#fn2" id="ref2">2</a></sup>
+
 
 &nbsp;A developer, the Related Companies, 
 bought the Montgomery and the six-story 
@@ -120,3 +121,4 @@ Sources  New-York Historical Society, Kathy Jolowicz, shop owners.
 
 <sup id="fn1">1. Elk Candy re-opened later that year in November at 1628 2nd Avenue. This location then closed in April 2006. The company then opened up an online store in October 2009 that is still running. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 
+<sup id="fn2">2. [Examples of German establishments that still exist in November 2018 are Schaller & Webber, a grocer located at 1654 2nd avenue and Heidelberg Restaurant located at 1648 2nd avenue.]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
