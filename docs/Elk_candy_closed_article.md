@@ -88,6 +88,8 @@ Brearley, on 83d Street, and is now a freshman
 at Barnard College. ''An awful lot of 
 kids at Brearley will be disappointed.'' ROSALIE R. RADOMSKY
 
+![Owner of Elk Candy Packing Up](../images/ownerofelkcandypackingup.jpg)
+Anton Lugjurarj, owner of Elk Candy, packs up.
 
 Streetscape
 ===
