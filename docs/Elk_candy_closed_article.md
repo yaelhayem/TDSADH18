@@ -7,7 +7,9 @@ a week before Easter. More than 500 a day
 were coming for homemade marzipan and 
 chocolate confections -- bunnies, eggs and 
 pigs. A sign in the window said the 64-year-old 
-shop was closing for good.
+shop was closing for good.<sup><a href="#fn1" id="ref1">1</a></sup>
+
+
    
 &nbsp;''The line wouldn't break,'' said Anton 
 Lulgjuraj, the 24-year-old owner, who inherited 
@@ -114,3 +116,7 @@ stores in the metropolitan region.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Elk Candy Company** (No. 240) Opened in 1930's at 92 East End Ave. Moved in the 40s to NO 240. Closed March 31, 1997.
 
 Sources  New-York Historical Society, Kathy Jolowicz, shop owners. 
+
+
+<sup id="fn1">1. [Elk Candy re-opened later that year in November at 1628 2nd Avenue. This location then closed in April 2006. The company then opened up an online store in October 2009 that is still running.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
