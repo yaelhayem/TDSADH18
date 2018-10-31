@@ -118,5 +118,5 @@ stores in the metropolitan region.
 Sources  New-York Historical Society, Kathy Jolowicz, shop owners. 
 
 
-<sup id="fn1">1. [Elk Candy re-opened later that year in November at 1628 2nd Avenue. This location then closed in April 2006. The company then opened up an online store in October 2009 that is still running.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn1">1. Elk Candy re-opened later that year in November at 1628 2nd Avenue. This location then closed in April 2006. The company then opened up an online store in October 2009 that is still running. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 
