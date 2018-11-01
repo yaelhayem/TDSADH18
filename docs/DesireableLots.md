@@ -6,4 +6,5 @@ DESIRABLE BUILDING LOTS. —In another column will be found the particulars of a
    <sup id="fn2">2. [probably "splendid" in the original]April 26, 1852]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
    
    
+   
 
