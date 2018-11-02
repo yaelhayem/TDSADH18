@@ -25,4 +25,5 @@ Continue reading the main story
 ADVERTISEMENT
 
 <sup id="fn1">1. [A Business Improvement District is an area in which businesses underwrite efforts to maintain, beautify and improve the local neighborhood, while increasing its appeal for new businesses.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
 <sup id="fn2">2. [Manhattan Community Board 8 encompases all of the East Side between 59th and 96th Streets as well as all of Roosevelt Island.]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
