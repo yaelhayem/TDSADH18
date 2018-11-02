@@ -9,7 +9,7 @@ For years, much of East 86th Street has been a noisy tangle of traffic, pedestri
 Because of the strip's problems, business and property owners on and near East 86th Street are seeking to form a business improvement district.<sup><a href="#fn1" id="ref1">1</a></sup> It has taken more than a decade to advance the project, partly because it has been hard to reach a consensus on the boundaries.
 But next month, the steering committee of the proposed group, to be called the Yorkville East 86th Street Business Improvement District, will present a plan to Community Board 8 for an improvement district bounded by East 85th Street, East 87th Street and Lexington and Second Avenues. If the plan is approved by the City Council -- generally six months after the proposal reaches the community board -- property owners in the four-block area would pay additional taxes, with the money raised going toward extra security, improved garbage pickup and vermin control and general beautification.
 There are already 40 BID's in the city, the mayor's office said Friday. With this one, as is often the case with BID's, agreement didn't come quickly.
-''We whittled down the boundaries to form a consensus,'' said Hedi White, a member of Community Board 8 Some text<sup><a href="#fn2" id="ref2">2</a></sup> and former president of the Manhattan Chamber of Commerce, sponsor of the plan. Noting that the boundaries originally proposed extended east to First Avenue and south to 84th Street, she added, ''That doesn't mean some in the district aren't happy or don't care, but we have overwhelming support.''
+''We whittled down the boundaries to form a consensus,'' said Hedi White, a member of Community Board 8<sup><a href="#fn2" id="ref2">2</a></sup> and former president of the Manhattan Chamber of Commerce, sponsor of the plan. Noting that the boundaries originally proposed extended east to First Avenue and south to 84th Street, she added, ''That doesn't mean some in the district aren't happy or don't care, but we have overwhelming support.''
 Continue reading the main story
 ADVERTISEMENT
 
@@ -25,3 +25,4 @@ Continue reading the main story
 ADVERTISEMENT
 
 <sup id="fn1">1. [A Business Improvement District is an area in which businesses underwrite efforts to maintain, beautify and improve the local neighborhood, while increasing its appeal for new businesses.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn2">2. [Manhattan Community Board 8 encompases all of the East Side between 59th and 96th Streets as well as all of Roosevelt Island.]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
