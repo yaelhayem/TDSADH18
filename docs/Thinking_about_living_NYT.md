@@ -9,7 +9,7 @@ The concrete trucks rumbling down the avenues, the covered sidewalks at numerous
 
 To some extent, it is the construction wave itself - some 22 new or renovated buildings with about 4,000 apartments planned or in progress in an area of about half a square mile - that is defining at least the current character of Upper Yorkville, generally considered bounded by 86th and 96th Streets and Third Avenue and the East River.
 
-![Hanratty's Jazz Club at 92nd street and Second Avenue](../images/Yorkville Article Picture 1.png)
+![Hanratty's Jazz Club at 92nd street and Second Avenue](../images/Yorkville Article Picture 1.Png)
 
 From its days as an area of country estates in the early 19th century to its tenements a century later, Yorkville, which begins at 79th Street, always been somewhat out of the Upper East Side mainstream. Some of that isolation began to change in the 1950's when the Third Avenue El was dismantled, but it was not until the 1970's that outsiders began moving in large numbers into an area once populated mainly by Czechs, Poles, Hungarians and Germans.
 
