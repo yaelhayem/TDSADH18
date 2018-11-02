@@ -92,6 +92,7 @@ at Barnard College. ''An awful lot of
 kids at Brearley will be disappointed.'' ROSALIE R. RADOMSKY
 
 ![owner](../images/owner.jpg)
+
 Anton Lugjurarj, 
 owner of Elk Candy, 
 packs up.
