@@ -122,3 +122,7 @@ Sources  New-York Historical Society, Kathy Jolowicz, shop owners.
 <sup id="fn1">1. Elk Candy re-opened later that year in November at 1628 2nd Avenue. This location then closed in April 2006. The company then opened up an online store in October 2009 that is still running. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 
 <sup id="fn2">2. [Examples of German establishments that still exist in November 2018 are Schaller & Webber, a grocer located at 1654 2nd avenue and Heidelberg Restaurant located at 1648 2nd avenue.]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+
+<sup id="fn3">3. Elk candy still ships today to certain places. They have a website for ordering, and even a twitter!<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
+
+<sup id="fn4">4. Among the best and most remembered stores of Yorkville is Elk Candy Store. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
