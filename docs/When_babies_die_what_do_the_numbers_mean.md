@@ -22,11 +22,9 @@ REDLENER Well, it's clear that when you're dealing with small numbers like that,
 Footnotes:
 <b id="f1">1</b> Changed B to :b: for aesthetics [↩](#a1)
 <b id="f2">2</b> To read more on Melinda Henneberger, read her bio at https://muckrack.com/melindadc [↩](#a2)
-
-
-
 <b id="f3">3</b> The format of this intereview was changed[↩](#a3)
 <b id="f4">4</b> Not how the original article showed the images. [↩](#a4)
+
 <b id="f5">5</b> To research more on Montifore Health Center, visit their website: https://www.montefiore.org/ [↩](#a5)
 
 
