@@ -3,7 +3,7 @@ When :b:abies <sup id="a1">[1](#f1)</sup> Die: What Do the Numbers Mean?
 =================
 
 A recent study by the city's Health Department indicates a sharp increase in the infant mortality rate of Central Harlem, from
-15.9 deaths per thousand live births in 1992 to 25.2 in 1993. The City put two health experts on a conference call to discuss the figures. One is Dr. Irwin Redlener, the director of community pediatrics for Montefiore Medical Center, in the Bronx, which delivers primary care throughout the city. The other is Dr. Mary Ann Chiasson, the Health Department's Assistant Commissioner for Disease and Prevention Research. Melinda Henneberger, a New York Times reporter who covers health issues, moderated the discussion. Below are excerpts.
+15.9 deaths per thousand live births in 1992 to 25.2 in 1993. The City put two health experts on a conference call to discuss the figures. One is Dr. Irwin Redlener, the director of community pediatrics for Montefiore Medical Center, in the Bronx, which delivers primary care throughout the city. The other is Dr. Mary Ann Chiasson, the Health Department's Assistant Commissioner for Disease and Prevention Research. Melinda Henneberger<sup id="a4">[4](#f4)</sup>, a New York Times reporter who covers health issues, moderated the discussion. Below are excerpts.
 
 
 The photos that accompanied this article: <sup id="a2">[2](#f2)</sup>
@@ -26,3 +26,5 @@ Footnotes:
 <b id="f2">2</b> Not how the original article showed the images. [↩](#a2)
 
 <b id="f3">3</b> The format of this intereview was changed[↩](#a3)
+
+<b id="f4">4</b> To read more on Melinda Henneberger, read her bio at https://muckrack.com/melindadc [↩](#a4)
