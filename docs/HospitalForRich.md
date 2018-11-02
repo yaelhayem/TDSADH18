@@ -8,7 +8,7 @@ NOV. 4, 1984
 [Hospital For Rich](https://www.nytimes.com/1984/11/04/nyregion/hospital-for-rich-now-aids-east-side.html) 
 
 *The original version of this article appeared in the New York Times on November 4th, 1984. The printed article looked like this:* 
-![Original Copy of HOSPITAL FOR RICH NOW AIDS EAST SIDE](..https://github.com/jl3819/TDSADH18/blob/master/images/057779_360W.png)
+![Original Copy of HOSPITAL FOR RICH NOW AIDS EAST SIDE](../images/057779_360W.png)
 
 Doctors Hospital, once the medical preserve of the rich and famous on the Upper East Side, is becoming a highly visable community hospital serving Yorkville's large elderly population and its growing influx of young professionals.
 
