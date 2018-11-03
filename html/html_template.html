@@ -17,42 +17,62 @@ this document, you will this tag: </html>.  The forward slash (/) is HTML code f
 -->
 <html>
   	
-	<!--The <head> tag sets the header for the page. Headers include metadata that indicate what type of formatting should be used,
+	<!--
+	The <head> tag sets the header for the page. Headers include metadata that indicate what type of formatting should be used,
 	among other things. Also note that indenting is used each time an opening  tag is used, then the indenting is reduced when the 
-	closing tag is used. This helps make the page more clear to the coder.-->
+	closing tag is used. This helps make the page more clear to the coder.
+	-->
 	<head> 
 		
-		<!--The next tag metadata tag instructing browsers to use the Unicode protocol for interpreting characters. Unicode is a 
-		common standard that is used for virtually all web pages. This tag does not have a closing tag.-->
+		<!--
+		The next tag metadata tag instructing browsers to use the Unicode protocol for interpreting characters. Unicode is a 
+		common standard that is used for virtually all web pages. This tag does not have a closing tag.
+		-->
 		<meta charset="utf-8">  
     		
-		<!--The next tag sets the title. This is displayed in the browser tab. Change it to the title of your page-->
+		<!--
+		The next tag sets the title. This is displayed in the browser tab. Change it to the title of your page
+		-->
 		<title>       
 			Golanka Page
-			
 		</title> 
-		<!--The tag above this closes the title-->
+		<!--
+		The tag above this closes the title
+		-->
 		
-		<!--The next tag is another special tag; this one tells the page where to find formatting instructions.  The instructions
+		<!--
+		The next tag is another special tag; this one tells the page where to find formatting instructions.  The instructions
 		are in anoteher file in this repository. The file is a "Cascading Style Sheet", in the "styles" folder. The file name
 		ends with ".css" and contains HTML code in a special format.  It is what determines the font size and color, what a 
 		link should look like, what the margins of the page should be, what the background should look like; in fact, every 
 		visual element of the page. (Browsers have default values that will be used if the style sheet does not explicitly say 
-		what to use).  You should make a new style sheet for your page, and change this line so your style sheet will be used-->
+		what to use).  You should make a new style sheet for your page, and change this line so your style sheet will be used
+		-->
     		<link href="../styles/template.css" rel="stylesheet" type="text/css">
 		
-	<!--The next tag closes the header-->
+	<!--
+	The next tag closes the header
+	-->
   	</head>
 	
-	<!--The next tag starts the body of the web page.  The content inside the body tags is what is displayed online.-->
+	<!--
+	The next tag starts the body of the web page.  The content inside the body tags is what is displayed online.
+	-->
 	<body>
 		
-		<!--The <h1> tag is the "big headline" tag.  Your style sheet will determine how the big headlines are displayed.-->
+		<!--
+		The <h1> tag is the "big headline" tag.  Your style sheet will determine how the big headlines are displayed. There are
+		tags for smaller headlines as well (<h2>, <h3>, etc).
+		-->
 		<h1>
 			HTML Template <!--This is the big headline to be displayed-->
 		</h1>
 		
-		<!--The <p> tag creates a paragraph with formatting determined by your style sheet.-->
+		<!--
+		The <p> tag creates a paragraph with formatting determined by your style sheet. Use a <div> tag to format code that isn't
+		in a paragraph (or to format collections of paragraphs). <div> means "division" and is used to group other elements
+		together.
+		-->
 		<p>
 			This page is to be used as a template for an HTML page.  Copy this code (you can only see all of the code if you
 			are viewing this in the repository, on GitHub.com; not if you are viewing this as a web page). Then, make a new 
@@ -64,30 +84,40 @@ this document, you will this tag: </html>.  The forward slash (/) is HTML code f
 		</p>
 		
 		<p>	
-			<!--The <a href> tag creates a link (aka hyperlink). This is the link to my markdown page. You should change it
+			<!--
+			The <a href> tag creates a link (aka hyperlink). This is the link to my markdown page. You should change it
 			so it links to your markdown page.  Hyperlink tags include the address of the link in quotes; this one is an
 			"internal" link as it points to a file in this repository.  The ".." means move back one folder (this page is
 			in the html folder), and each slash (/) means move forward one folder or file.  The address is "closed" with 		
-			">" and then the text of the link is written, followed by the actual closing tag (</a>)-->
+			">" and then the text of the link is written, followed by the actual closing tag (</a>)
+			-->
 			<a href = "../docs/Golanka_Little_Rock">This is a link to my annotated Markdown page</a> that transcribes the 
 			first few paragraphs of the article and includes a link to an image of the article as it appeared in the New 
 			York Times.		
 		</p>
 		
 		<p>
-			<!--Next is another link example; this one goes to an external page (a guide to HTML). Note how it is in the 
-			middle of a sentence.-->
+			<!--
+			Next is another link example; this one goes to an external page (a guide to HTML). Note how it is in the 
+			middle of a sentence.
+			-->
 			Here is an <a href = "https://www.w3schools.com/html/default.asp">HTML Tutorial</a> you can use to help you 
 			create your web page.
 		</p>
 		
 		<p>
-			<!--Next is another link example; this one goes to a different external page (a guide to CSS).-->
+			<!--
+			Next is another link example; this one goes to a different external page (a guide to CSS).
+			-->
 			A <a href = "https://www.w3schools.com/css/">CSS Tutorial</a> you can use to help you with your style sheet.
 		</p>
 		
-	<!--The next tag closes the body of this web page.-->
+	<!--
+	The next tag closes the body of this web page.
+	-->
  	</body>
 	
-<!--The next tag is the final tag, closing the initial HTML tag.-->
+<!--
+The next tag is the final tag, closing the initial HTML tag.
+-->
 </html>
