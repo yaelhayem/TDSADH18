@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+		<meta charset="utf-8">
+    		<title>Sophie Page</title>
+    		<link href="../styles/style.css" rel="stylesheet" type="text/css">
+  	</head>
+	<body>
+		<h1>Sophie's Web Page</h1>
+		
+		<p>My article was about the 60th anniversary of a drugstore named "Lascoff Drugs" and the ways it has kept its business strong.
+			
+			<a href = "../docs/Lascoff_Drugs_Kofsky">This is a link to my annotated Markdown page</a> that transcribes the first few paragraphs of the article and includes
+			an image of the article as it appearned in the New York Times.		
+		</p>
+ 	</body>
+</html>
