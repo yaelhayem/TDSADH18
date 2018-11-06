@@ -7,7 +7,7 @@ html {
 h1 {
   font-size: 60px;
   font-family: 'Luminari', fantasy;
-  color: #84E9FD
+
   text-align: center;
 }
 
@@ -25,15 +25,15 @@ html {
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FFFAF0;
+  background-color: #D5F0F0;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 5px #57064A;
 }
 
 h1 {
   margin: 0;
   padding: 20px 0;  
-  color: #00539F;
+  color: #84E9FD;
   text-shadow: 3px 3px 1px black;
 }
 
