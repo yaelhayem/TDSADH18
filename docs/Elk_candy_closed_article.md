@@ -124,6 +124,6 @@ Sources  New-York Historical Society, Kathy Jolowicz, shop owners.
 
 <sup id="fn2">2. [Examples of German establishments that still exist in November 2018 are Schaller & Webber, a grocer located at 1654 2nd avenue and Heidelberg Restaurant located at 1648 2nd avenue.]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
 
-<sup id="fn3">3. The tradition of marzipan easter eggs. Here is a recipe. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
+<sup id="fn3">3. The tradition of marzipan easter eggs. Here is a recipe. http://www.bawarchi.com/recipe/marzipan-easter-eggs-oetnhddhddfgg.html <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
 
-<sup id="fn4">4. Brearley School history page linked. Shows what kind of customers Elk Candy was catering to. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
+<sup id="fn4">4. Brearley School history page: https://www.brearley.org/page/about/our-history. Shows what kind of customers Elk Candy was catering to. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
