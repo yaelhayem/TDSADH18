@@ -82,14 +82,14 @@ Jolowicz said, ''with different colored sprinkles
 
 &nbsp;Jane Schnitzer, who moved to the neighborhood
 in 1974, always gave her eldest 
-daughter, Annabel, marzipan for Easter,
+daughter, Annabel, marzipan for Easter<sup><a href="#fn3" id="ref3">2</a></sup>, 
 Christmas and Valentine's Day.
 
 &nbsp;''I literally raised her on marzipan,'' said 
 Ms. Schnitzer, whose daughter went to 
 Brearley, on 83d Street, and is now a freshman
 at Barnard College. ''An awful lot of 
-kids at Brearley will be disappointed.'' ROSALIE R. RADOMSKY
+kids at Brearley will be disappointed.'' <sup><a href="#fn4" id="ref4">2</a></sup>ROSALIE R. RADOMSKY
 
 ![owner](../images/owner.jpg)
 
@@ -124,6 +124,6 @@ Sources  New-York Historical Society, Kathy Jolowicz, shop owners.
 
 <sup id="fn2">2. [Examples of German establishments that still exist in November 2018 are Schaller & Webber, a grocer located at 1654 2nd avenue and Heidelberg Restaurant located at 1648 2nd avenue.]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
 
-<sup id="fn3">3. Elk candy still ships today to certain places. They have a website for ordering, and even a twitter!<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
+<sup id="fn3">3. The tradition of marzipan easter eggs. Here is a recipe. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
 
-<sup id="fn4">4. Among the best and most remembered stores of Yorkville is Elk Candy Store. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
+<sup id="fn4">4. Brearley School history page linked. Shows what kind of customers Elk Candy was catering to. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
