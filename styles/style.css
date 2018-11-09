@@ -57,7 +57,9 @@ body {
 }
 
 
-img.resize {
-  width:50px;
-  max-height:61px;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
