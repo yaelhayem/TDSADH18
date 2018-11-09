@@ -36,8 +36,8 @@ come in pairs like this.
 		<!--
 		The next tag sets the title. This is displayed in the browser tab. Change it to the title of your page.
 		-->
-		<title>       
-			HTML Template 
+		<title>     
+			 HTML Template 
 
 		</title> 
 		<!--
@@ -53,7 +53,7 @@ come in pairs like this.
 		the style sheet does not explicitly say what to use).  You should make a new style sheet for your page, and change this 
 		line so your style sheet will be used. (Make sure your style sheet is inside the styles folder.)
 		-->
-    		<link href="../styles/template.css" rel="stylesheet" type="text/css">
+    		<link href="../styles/beck.css" rel="stylesheet" type="text/css">
 		
 		<!--
 		Another special tag; similar to the last one, but this one creates the little image in the page's tab; the "faviocon."
@@ -68,11 +68,9 @@ come in pairs like this.
 	<!--
 	The next tag starts the body of the web page.  The content inside the body tags is what is displayed online.
 	-->
-	<body style="background-color:rgb(0,204,44);">
+	<body>
 		
 
-
-		
 	
 		<font face="Chalkduster">
 
@@ -82,9 +80,9 @@ come in pairs like this.
 		they should look like (these include "shadows"). There are tags for smaller headlines as well (<h2>, <h3>, etc).
 		-->
 		<h1>
-			<font color="red">
+			<font color="red"><font size="20"><center>
 			HTML Template <!--This is the big headline to be displayed-->
-			</font>
+			</font></center></font>
 		</h1>
 		
 		<!--
@@ -93,8 +91,8 @@ come in pairs like this.
 		together. After the <p> tag is text that will be displayed on the web page, in a paragraph.
 		-->
 		<p>
-			<font color="yellow">
-			This page is to be used as a template for an HTML page.  Copy this code (you can only see all of the code if you
+			
+				This page is to be used as a template for an HTML page.  Copy this code (you can only see all of the code if you
 			are viewing this in the repository, on GitHub.com; not if you are viewing this as a web page). Then, make a new 
 			document in the HTML folder (be sure to name it with the ".html" extension), paste the code you copied
 			and Commit (save) your new page. Then edit the page for content (describe and link to your Markdown page) and 
@@ -117,6 +115,12 @@ come in pairs like this.
 			a viewer puts her cursor over the image, but more importantly, is read by screen readers used by those with 
 			limited vision.
 			-->
+
+			 <style type="text/css">
+  				body {
+    				color: purple;
+    				background-color: powderblue }
+  			 </style>
 			<img src="../images/yorkvillepenguin.png" alt="Yorkville Penguin">
 			<!--
 			The <a href> tag creates a link (aka hyperlink). This link goes to my markdown page. You should change it
@@ -125,7 +129,7 @@ come in pairs like this.
 			in the html folder), and each slash (/) means move forward one folder or file.  The address is "closed" with 		
 			">" and then the text of the link is written, followed by the actual closing tag (</a>)
 			-->
-			<a href = "../docs/Golanka_Little_Rock">This is a link to my annotated Markdown page</a> that transcribes the 
+			<a href = "../docs/When_babies_die_what_do_the_numbers_mean.md">This is a link to my annotated Markdown page</a> that transcribes the 
 			first few paragraphs of the article and includes a link to an image of the article as it appeared in the New 
 			York Times.
 		<!--
