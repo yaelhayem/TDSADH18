@@ -20,7 +20,7 @@ applied generally to all displayed text (unless overridden by a more specific ta
 html {
   font-size: 12px;
   font-family: 'Open Sans', sans-serif;
-  background-color:  #33FFBD;
+  background-color:  #688A08;
 }
 
 /*
@@ -32,7 +32,9 @@ h1 {
   margin: 0;
   padding: 20px 0;  
   color: #00539F;
+ /*
   text-shadow: 3px 3px 1px black;
+*/
 }
 
 /*
