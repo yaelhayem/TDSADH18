@@ -53,9 +53,11 @@ The formatting for the body specifies the width withing the page that the conten
 body {
   width: 800px;
   margin: 0 auto;
-  background-color:#f7dcea;
+  background-color:#f#848484;
   padding: 0 20px 20px 20px;
+ /*
   border: 5px solid blue;
+ */
 }
 
 /*
