@@ -21,7 +21,7 @@ p.thicker {
     font-weight: 900;
 }
 
-p, li {
+p.li {
   font-size: 16px;  
   line-height: 2;
   letter-spacing: 1px;
