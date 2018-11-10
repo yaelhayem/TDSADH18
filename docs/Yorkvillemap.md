@@ -39,7 +39,6 @@ Yorkville Walking Tour
 <br>*6 E 87th Street*   
 <br>The Deutscher Liederkranz der Stadt New York was founded in 1847 to preserve and promote German culture and music, but also became a strong supporter of the United States during times of war and natural disaster.
    
-   
    ---   
    
    
