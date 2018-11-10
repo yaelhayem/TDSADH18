@@ -6,7 +6,8 @@ Yorkville Walking Tour
 
 
 **Schaller & Weber**
-<p>*1654 2nd Avenue*</p>
+
+*1654 2nd Avenue*
 
 For over seventy years, Schaller & Weber have been manufacturers, butchers, and purveyors of German imported goods. It is the last German butcher shop in the Yorkville neighborhood, and is still family owned.
 
