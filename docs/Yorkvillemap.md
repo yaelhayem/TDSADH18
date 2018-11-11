@@ -31,7 +31,7 @@ Yorkville Walking Tour
    
 **Wankel's Hardware Store**
 <br>*1573 3rd Avenue*
-<br>Wankel's Hardware Store is one of the few surviving family-owned and operated German businesses of Yorkville. In the late 19th century, the most popular item sold was a simple wooden bucket taht laborers used to carry beer home from the area's German breweries.
+<br>Wankel's Hardware Store is one of the few surviving family-owned and operated German businesses of Yorkville. In the late 19th century, the most popular item sold was a simple wooden bucket that laborers used to carry beer home from the area's German breweries.
    
    ---   
    
