@@ -1,5 +1,5 @@
 
-When :b:abies <sup id="a1">[1](#f1)</sup> Die: What Do the Numbers Mean?
+When :b:abies <sup id="a1">[1](#f1)</sup> Die: What Do the Numbers Mean? :anguished:
 =================
 
 A recent study by the city's Health Department indicates a sharp increase in the infant mortality rate of Central Harlem, from
