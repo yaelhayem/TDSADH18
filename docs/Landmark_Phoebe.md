@@ -1,6 +1,6 @@
    What Does It Take To Make a Landmark?
    ---
-![Landmark](../images/Landmark.pdf)
+![Landmark](../images/Landmark.jpg)
 
 ---
 **C**all the city and suburban <br/>
