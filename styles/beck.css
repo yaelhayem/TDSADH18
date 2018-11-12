@@ -5,6 +5,10 @@ body {
 h1 {
     color: red;
     text-align: center;
+    font-family: Courier Header;
+    font-size: 40 px;
+
+
 }
 
 p {
