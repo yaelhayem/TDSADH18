@@ -19,20 +19,22 @@ applied generally to all displayed text (unless overridden by a more specific ta
 */
 html {
   font-size: 12px;
-  font-family: 'Open Sans', sans-serif;
-  background-color:  #33FFBD;
+  font-family: 'Georgia', serif;
+  background-color:  #688A08;
 }
 
 /*
 Here is where the "Large Headline" format is set (60px font, centered, shadows, etc).
 */
 h1 {
-  font-size: 30px;
+  font-size: 60px;
   text-align: center;
   margin: 0;
   padding: 20px 0;  
-  color: #000000;
+  color: #000000F;
+ /*
   text-shadow: 3px 3px 1px black;
+*/
 }
 
 /*
@@ -51,9 +53,12 @@ The formatting for the body specifies the width withing the page that the conten
 body {
   width: 800px;
   margin: 0 auto;
-  background-color:#f7dcea;
+  background-color:#6E6E6E;
   padding: 0 20px 20px 20px;
+ /*
   border: 5px solid blue;
+ */
+ 
 }
 
 /*
