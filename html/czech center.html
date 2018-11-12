@@ -11,8 +11,23 @@
 	<body onLoad = "init();">
 		<h1> Czech center </h1
 
-
-
+                       <!--
+			This is a link to an image from the images folder.  The text after alt= serves as the title that pops up when
+			a viewer puts her cursor over the image, but more importantly, is read by screen readers used by those with 
+			limited vision.
+			-->
+			<img src="../images/yorkvillepenguin.png" alt="<czech center">
+			<!--
+			The <a href> tag creates a link (aka hyperlink). This link goes to my markdown page. You should change it
+			so it links to your markdown page.  Hyperlink tags include the address of the link in quotes; this one is an
+			"internal" link as it points to a file in this repository.  The ".." means move back one folder (this page is
+			in the html folder), and each slash (/) means move forward one folder or file.  The address is "closed" with 		
+			">" and then the text of the link is written, followed by the actual closing tag (</a>)
+			-->
+			<a href = "../docs/czech center">This is a link to my annotated Markdown page</a> that transcribes the 
+			first few paragraphs of the article and includes a link to an image of the article as it appeared in the New 
+			York Times.
+		<!--
       <p> 
       <br> When proud immigrants built the Bohemian National Hall in 1896,
       <br>no one foresaw the tumultuous century that would follow in their homeland overseas, 
