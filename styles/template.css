@@ -27,7 +27,7 @@ html {
 Here is where the "Large Headline" format is set (60px font, centered, shadows, etc).
 */
 h1 {
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   margin: 0;
   padding: 20px 0;  
