@@ -1,23 +1,28 @@
 body {
-  padding: 20px;
+    background-color: lightblue;
 }
 
+h1 {
+    color: blue;
+    text-align: center;
+    
+    font-family: courier;
+    font-size: 40 px;
 
 
-input[type=text] {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 10px 0;
-    border: 2px solid blue;
-    box-sizing: border-box;
-    background-color: lightgrey;
 }
 
-input[type=email] {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 10px 0;
-    border: 2px solid blue;
-    box-sizing: border-box;
-    background-color: lightgrey;
+h2{
+    
+color: green;
+    font-family: courier;
+    font-size: 30 px;
+
+
 }
+
+p {
+    font-family: chalkduster;
+    font-size: 20px;
+}
+ 

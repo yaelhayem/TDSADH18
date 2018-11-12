@@ -1,5 +1,5 @@
 
-When :b:abies <sup id="a1">[1](#f1)</sup> Die: What Do the Numbers Mean?
+When :b:abies <sup id="a1">[1](#f1)</sup> Die: What Do the Numbers Mean? :anguished:
 =================
 
 A recent study by the city's Health Department indicates a sharp increase in the infant mortality rate of Central Harlem, from
@@ -27,4 +27,4 @@ Footnotes:
 
 <b id="f5">5</b> To research more on Montifore Health Center, visit their website: https://www.montefiore.org/ [↩](#a5)
 
-<b id="f6">6</b> Originally published in 1851. [↩](#a6)
+<b id="f6">6</b> NYT was first published in 1851. [↩](#a6)
