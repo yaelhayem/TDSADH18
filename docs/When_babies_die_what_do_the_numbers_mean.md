@@ -27,4 +27,4 @@ Footnotes:
 
 <b id="f5">5</b> To research more on Montifore Health Center, visit their website: https://www.montefiore.org/ [↩](#a5)
 
-<b id="f6">6</b> Originally published in 1851. [↩](#a6)
+<b id="f6">6</b> NYT was first published in 1851. [↩](#a6)
