@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    
+    font-family: courier;
+    font-size: 40 px;
+
+
+}
+
+h2{
+    
+color: green;
+    font-family: courier;
+    font-size: 30 px;
+
+
+}
+
+p {
+    font-family: chalkduster;
+    font-size: 20px;
+}
+ 

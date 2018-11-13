@@ -1,0 +1,65 @@
+/*
+This is a Cascading Style Sheet--or Style Sheet. The code is called, and the extnsion for the file is, CSS.
+This style sheet should be copied and modified, and "attached" to your HTML file. The line in the header of the HTML template that
+ attaches this style sheet is this one: 
+<link href="../styles/template.css" rel="stylesheet" type="text/css">
+Your code should have a similar line, but with the name of your style sheet.
+Note that the "tags" for commenting are not the same in HTML as in CSS.  Above and below these comments are the comment "tags."
+The best way to learn about style sheets is to change settings and see what happens!
+*/
+
+/*
+Style sheets give the browswer specific formatting to use for each element of the web page. Anything left out of the style sheet will
+be displayed using the browser's settings. (In other words, the style sheet overrides the browser's settings.)
+The format for describing the format is to list the HTML tag, followed by code surrounded by curly brackets like these: {}
+The following code tells the web page to use an Open Sans font that is sized 12px, on a light green background.  It should be 
+applied generally to all displayed text (unless overridden by a more specific tag).
+*/
+html {
+  font-size: 12px;
+  font-family: 'times', serif;
+  background-color:  #FFFFFF;
+}
+
+/*
+Here is where the "Large Headline" format is set (60px font, centered, shadows, etc).
+*/
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;  
+  color: #000000;
+  /*text-shadow: 3px 3px 1px black;
+ */
+}
+
+/*
+HTML tags can be combined. Here, the paragraphs and list items are formatted the same.
+*/
+p, li {
+  font-size: 16px;  
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+/*
+The formatting for the body specifies the width withing the page that the content will appear, sets the background to a shade of lavendar 
+(overridding the HTML light green), and creates a blue border (in addition to creating "padding" or blank space at the edges).
+*/
+/* body {
+  width: 800px;
+  margin: 0 auto;
+  background-color:#f7dcea;
+  padding: 0 20px 20px 20px;
+  border: 5px solid blue;
+}
+/*
+/*
+Images will be formatted as "blocks" (as opposed to in-line), with rounded corners and no margin between the image and nearby text.
+*/
+img {
+  display: block;
+  border-radius: 8px;
+  margin: 0 auto;
+}
