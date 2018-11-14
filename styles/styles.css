@@ -1,18 +1,19 @@
 html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
+  color: white;
 }
 
 
 h1 {
-  font-size: 30px;
+  font-size: 40px;
   text-align: center;
 }
 
 h2 {
-  font-size: 25px;
+  font-size: 30px;
   text-align: center;
-  font-style: italic;
+  color: antiquewhite;
 }
 
 p, li {
@@ -23,18 +24,29 @@ p, li {
 
 
 html {
-  background-color:  ##FDFEFE;
+  background-color: firebrick;
 }
 
 body {
-  width: 800px;
-  margin: 0 auto;
-  background-color: #F0F3F4;
+  width: auto;
+  margin: 40 auto;
+  background-color: #d62828;
   padding: 0 20px 20px 20px;
-  border: 2px solid black;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;  
+  color: darkred;
+  text-shadow: 3px 3px 1px black;
 }
 
 img {
   display: block;
   margin: 0 auto;
+}
+
+a {
+  color: pink;
 }
